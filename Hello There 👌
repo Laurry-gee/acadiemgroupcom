@@ -3,7 +3,8 @@
 MarkBook RSS Feed https://www.markbook.com MarkBook RSS Feed. Keep up to date on the latest news. en-us mrichardson@acadiemgroup.com The Acadiem Group 2020 NEW MarkBook is Here!
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="TDSB-logo.png">
+ <source media="(prefers-color-scheme: light)" srcset="TVDSB-logo.png">
+ <img alt="YOUR-ALT-TEXT" src="WECDSB-logo.png">
 </picture>
+Teachers that are currently using personal email accounts will need to contact support@markbookapp.com to request existing class data transfers, if required.  For TVDSB Users 09 Sep 2022 01:00:00 -0400 https://www.markbook.com News On Tuesday, September 6th, Single Sign On (SSO) was implemented for TVDSB MarkBook (Cloud) users. Teachers are now required to sign onto MarkBook using their TVDSB e-mail address and password in the Microsoft 365 Apps environment. Please follow the Information Guidesheet for "Transfer from Individual to Corporate Domain using SSO in MarkBook®”. Teachers that are already signing onto MarkBook with their TVDSB email address will have their existing class data maintained.
