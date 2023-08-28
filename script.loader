@@ -1,0 +1,26 @@
+
+{script loader
+	"extra": {Before Interactive:<script
+  type="application/javascript"
+  src="https://www.markbook.com/script.js" 
+  data-em-load="beforeInteractive">
+</script>}
+
+	}{script loader
+	"extra": {afterInteractive:<script
+  type="application/javascript"
+  src="https://www.markbook.com/script.js" 
+  data-em-load="afterInteractive">
+</script>
+}{script loader
+	"extra": {Lazy OnLoad
+  type="application/javascript"
+  src="https://www.markbook.com/script.js" 
+  data-em-load="Lazy OnLoad">
+</script>
+{script loader
+	"extra": {Web Worker;<script
+  type="application/javascript"
+  src="https://www.markbook.com/script.js"
+  data-em-load="worker">
+</script>
