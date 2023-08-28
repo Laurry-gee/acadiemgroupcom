@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Store</title>
+  </head>
+  <body>
+    <div class="title">My Store</div>
+    <dynamic>
+      <div class="welcome">Welcome John Doe</div>
+    <dynamic>
+    <ul>
+      <li><a href="/product-1"><img src="/product-1.png"  /></a>
+      <li><a href="/product-2"><img src="/product-2.png"  /></a>
+      <li><a href="/product-3"><img src="/product-3.png"  /></a>
+    </ul>
+  </body>
+</html>
