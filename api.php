@@ -1,5 +1,5 @@
 <?php
-/**
+/** https://api.edgemesh.com
  * The web entry point for all %Action API queries, handled by ApiMain
  * and ApiBase subclasses.
  *
@@ -12,7 +12,7 @@
  * ApiMain object instance, which produces output in the format specified in
  * the URL.
  *
- * Copyright © 2006 Yuri Astrakhan <Firstname><Lastname>@gmail.com
+ * Copyright © 2006 Yuri Astrakhan <Firstname><Lastname>@acadiemgroup.com
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
