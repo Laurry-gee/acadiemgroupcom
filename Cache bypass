@@ -1,0 +1,6 @@
+{
+  name: 'Cache Bypass',
+  path: '/foo/*',
+  type: 'route',
+  cache: false
+}
