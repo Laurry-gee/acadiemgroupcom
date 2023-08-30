@@ -1,2 +1,10 @@
-Domain Un-sharding
-The search parameters below are used by the Edgemesh® domain un-sharding feature. In most cases, you will not have to set any of these manually, but they are described here for clarity and to aid in custom solution development.
+To further optimize the caching and loading speed of your website, Edgemesh® Server introduces the concept of domain un-sharding. Domain un-sharding involves rewriting off-origin assets, such as third-party images, onto your origin server and caching them in our faster edge caches.
+Let's consider an example to illustrate the benefits of domain un-sharding. Imagine that your website, markbook.com, currently hosts its images on a third-party provider called slow.vendor.com. When a browser requests the page, it needs to establish an additional connection to slow.vendor.com to fetch the images. However, with domain un-sharding, you can self-host these images, serving them directly from markbook.com.
+By implementing domain un-sharding, you gain several performance advantages:
+Reduced DNS Lookups: With un-sharded assets, there is a significant reduction in DNS lookups, as the browser only needs to resolve the domain of your website (markbook.com), rather than multiple domains.
+Fewer Network Connections: Un-sharding eliminates the need for establishing and maintaining multiple network connections to fetch assets from different domains. This results in a streamlined and more efficient loading process.
+Eliminated TLS Negotiations: Domain un-sharding eliminates the need for establishing separate secure connections (TLS negotiations) for each domain, reducing the overhead associated with these negotiations and further enhancing performance.
+Optimized Cache Control: Edgemesh® Server applies sensible cache control parameters to all assets, ensuring efficient caching and minimizing the need for repeated requests to the origin server.
+Improved Multiplexing: By un-sharding assets onto a single domain, the browser can more efficiently multiplex requests over a single channel, enhancing overall page loading speed.
+With Edgemesh® Server, domain un-sharding is automatically optimized for HTML pages, ensuring that assets that can be safely hosted on the origin server are un-sharded and cached at the edge. This process enhances caching efficiency, reduces latency, and accelerates the loading of your web pages, resulting in an improved user experience.
+Experience the benefits of domain un-sharding with Edgemesh® Server and unlock the full potential of your website's caching and loading performance.
