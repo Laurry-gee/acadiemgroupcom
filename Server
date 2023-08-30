@@ -1,0 +1,2 @@
+Setting this search parameter to server will instruct Edgemesh® Server to skip all server-side optimizations for the given request. This is equivalent to navigating directly to your upstream origin.
+https://acadiemgroup.com?em-bypass=server
