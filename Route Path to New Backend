@@ -1,0 +1,6 @@
+{
+  name: 'Route to Foo',
+  path: '/foo/bar',
+  type: 'route',
+  backend: 'foo.com'
+}
