@@ -1,0 +1,15 @@
+Weighted A/B Test
+{
+  name: 'Weighted A/B Test',
+  path: '*',
+  type: 'split',
+  duration: 60 * 60 * 24 * 7,
+  audience: 'weighted',
+  groups: [{
+    backend: 'foo.com',
+    weight: 0.5
+  }, {
+    backend: 'variant.foo.com',
+    weight: 0.5
+  }]
+}
