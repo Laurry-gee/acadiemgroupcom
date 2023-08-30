@@ -1,0 +1,6 @@
+{
+  name: 'Full Bypass',
+  path: '/foo/*',
+  type: 'route',
+  bypass: true
+}
