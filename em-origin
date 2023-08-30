@@ -1,0 +1,3 @@
+em-origin
+This search parameter instructs Edgemesh® Server to fetch the given resource from the specified origin. It is defined as the hostname only (string).
+https://acadiemgroup.com/script.js?em-origin=cdn.shopify.com
