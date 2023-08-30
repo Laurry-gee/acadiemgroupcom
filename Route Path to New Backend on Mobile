@@ -1,0 +1,7 @@
+{
+  name: 'Mobile Route to Foo',
+  path: '/foo/bar',
+  type: 'route',
+  devices: ['mobile', 'tablet'],
+  backend: 'foo.com'
+}
