@@ -1,0 +1,9 @@
+{
+  name: 'Landing Page',
+  paths: [
+    '/blog/**',
+    '/blog-categories/**'
+  ],
+  type: 'route',
+  backend: 'blog.foo.com'
+}
