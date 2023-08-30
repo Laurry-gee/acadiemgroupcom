@@ -1,0 +1,7 @@
+{
+  name: 'EU Route to Foo',
+  path: '/foo/bar',
+  type: 'route',
+  continent: 'EU',
+  backend: 'foo.com'
+}
