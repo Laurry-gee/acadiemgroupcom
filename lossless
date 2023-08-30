@@ -1,0 +1,6 @@
+Serve the image with no modifications or optimizations. This setting will override all other settings.
+autoformat:https://acadiemgroup.com/image.png?em-format=auto
+explicit avif format: https://acadiemgroup.com/image.png?em-format=avif
+webp:https://acadiemgroup.com/image.png?em-format=webp
+json data format: https://acadiemgroup.com/image.png?em-format=json
+lossless format: https://acadiemgroup.com/image.png?em-format=lossless
