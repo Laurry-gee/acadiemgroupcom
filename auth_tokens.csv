@@ -1,0 +1,2 @@
+id,auth_token_hash,prev_auth_token_hash,auth_token_seen,client_ip,user_agent,seen_at,rotated_at,created_at,updated_at
+335354,KOwUn...,KOwUn...,true,102.89.46.42,"Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1",2023-06-06 16:55:51 UTC,2023-06-06 16:55:48 UTC,2023-06-06 16:55:48 UTC,2023-06-06 16:55:48 UTC
