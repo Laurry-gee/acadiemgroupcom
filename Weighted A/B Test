@@ -2,7 +2,7 @@ Weighted A/B Test
 {
   name: 'Weighted A/B Test',
   path: '*',
-  type: 'split',
+  type: 'unified',
   duration: 60 * 60 * 24 * 7,
   audience: 'weighted',
   groups: [{
