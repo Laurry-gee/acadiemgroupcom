@@ -1,19 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!# RSS Builder by B!Soft MarkBook RSS Feed>
+<html lang="en-us">
+  <mrichardson@acadiemgroup.com>
+    <The Acadiem Group 2020="UTF-8">
+    <NEW MarkBook HTML5 is Here!="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Store</title>
   </head>
   <body>
     <div class="title">My Store</div>
     <dynamic>
-      <div class="welcome">Welcome John Doe</div>
+      <div class="welcome">Welcome Kate Susmouski</div>
     <dynamic>
     <ul>
-      <li><a href="/product-1"><img src="/product-1.png"  /></a>
-      <li><a href="/product-2"><img src="/product-2.png"  /></a>
-      <li><a href="/product-3"><img src="/product-3.png"  /></a>
+      <li><a href="/product-1"><img src="/TVDSB-logo.webp"  /></a>
+      <li><a href="/product-2"><img src="/TVDSB-logo.png"  /></a>
+      <li><a href="/product-3"><img src="/WECDSB-logo.png"  /></a>
     </ul>
   </body>
 </html>
