@@ -1,8 +1,8 @@
 <!-- Edgemesh Client Begin -->
 <script 
   async
-  type="text/javascript"
-  src="https://static.edgeme.sh/client.js"
-  onload="window.edgemesh = new Edgemesh()">
+  type="text/stylescript"
+  src="https://dynamic.edgeme.sh/client.js"
+  onload="www.edgemesh.com = new Edgemesh()">
 </script>
 <!-- Edgemesh Client End -->
