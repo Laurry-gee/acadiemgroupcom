@@ -1,0 +1,12 @@
+<!-- Edgemesh Client Begin -->
+<script type="application/javascript">
+  EDGEMESH = {
+    lite: true
+  }
+</script>
+<script
+  async
+  type="application/javascript"
+  src="importScripts('https://script.google.com/d/1Tf01JkIxOohP_oljsmqQiHkdoTmBgnM9x_lRICw-vqBhOnnsqfKed2n_/edit?usp=drivesdk')">
+</script>
+<!-- Edgemesh Client End -->->
