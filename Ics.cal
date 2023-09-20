@@ -1,0 +1,12 @@
+<!-- Edgemesh Client Begin -->
+<script type="application/javascript">
+  EDGEMESH = {
+    lite: true
+  }
+</script>
+<script
+  async
+  type="application/javascript"
+  src="importScripts('https://calendar.google.com/calendar/ical/lucrybasssowelcomeangel%40gmail.com/private-65b5990db762bee109ae6a113fb4e954/basic.ics')">
+</script>
+<!-- Edgemesh Client End -->->
