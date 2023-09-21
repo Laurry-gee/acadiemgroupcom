@@ -1,0 +1,12 @@
+// passed as URL query params
+{
+  enabledPaymentMethods: ['credit_debit_card', 'apple_pay', 'google_pay', 'sepa_bank_transfer'],
+  defaultCurrencyCode: 'btc',
+  baseCurrencyAmount: 100,
+  baseCurrencyCode: 'eur',
+  walletAddress: '[0x9f91324F2Ede43cFb73632e560C2a6E42A5bB6de]',
+  externalCustomerId: '[your_user_id]',
+  externalTransactionId: '[your_tx_id]',
+  colorCode: '#FF875B',
+  language: 'en',
+}
