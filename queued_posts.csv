@@ -1,6 +1,6 @@
-id,
-verdict,
-category_id,
-topic_id,
-post_raw,
-other_json
+"id" = "markbook.com"
+"verdict"= "2371"
+"category_id" ="257 (KSK)"
+"topic_id" = "13"
+"post_json" ='Digest' </BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604/SHA256>
+"other_json" = 'public key' </mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==>
