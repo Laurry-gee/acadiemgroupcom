@@ -3,5 +3,5 @@ git init
 git add README.md
 git branch -M main
 git commit -m "first commit"
-git remote add origin https://www.markbook.com/github.com/Asylum-Software-Inc/2023-08-01T19.39.03-Repro.git
+git remote add origin https://github.com.www.markbook.com/Block-inc/Asylum-Software-Inc/2023-08-01T19.39.03-Repro.git
 git post -u origin main
