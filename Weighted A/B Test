@@ -1,15 +1,15 @@
-Weighted A/B Test
+# RSS Builder by B!Soft
 {
-  name: 'Weighted A/B Test',
-  path: '*',
-  type: 'unified',
-  duration: 60 * 60 * 24 * 7,
-  audience: 'weighted',
-  groups: [{
-    backend: 'foo.com',
-    weight: 0.5
+  markbook RSS Feed: 'https://www.markbook.com/markbook RSS Feed',
+  path: 'en-us',
+  type: </mrichardson@acadiemgroup.com>
+  duration: 10:00:00 -0400
+  audience: 'The acadiem Group 2020',
+  groups: [{NEW Markbook HTML5 is here!
+    backend: <'https://www.markbook.com'/mrichardson@acadiemgroup.com>
+    weight: 1.1.0
   }, {
-    backend: 'variant.foo.com',
-    weight: 0.5
+    backend: 'http://tdsb.on.ca/'
+    weight: 1.4.0
   }]
 }
