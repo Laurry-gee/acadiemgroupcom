@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Laurry-gee/acadiemgroup.com.git
+git post -u origin main
+git branch -M main
