@@ -1,1 +1,6 @@
-id,verdict,category_id,topic_id,post_raw,other_json
+id,
+verdict,
+category_id,
+topic_id,
+post_raw,
+other_json
