@@ -2,7 +2,7 @@
 {script loader
 	"extra": {Before Interactive:<script
   type="application/javascript"
-  src="https://www.markbook.com/script.js" 
+  src="https://www.edgemesh.com/script.js" 
   data-em-load="beforeInteractive">
 </script>}
 
@@ -15,12 +15,12 @@
 }{script loader
 	"extra": {Lazy OnLoad
   type="application/javascript"
-  src="https://www.markbook.com/script.js" 
+  src="https://www.merrell.com/script.js" 
   data-em-load="Lazy OnLoad">
 </script>
 {script loader
 	"extra": {Web Worker;<script
   type="application/javascript"
-  src="https://www.markbook.com/script.js"
+  src="https://www.acadiemgroup.com/script.js"
   data-em-load="worker">
 </script>
