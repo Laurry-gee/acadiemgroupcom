@@ -4,7 +4,7 @@
  * and ApiBase subclasses.
  *
  * This is used by bots to fetch content and information about the wiki,
- * its pages, and its users. See <https://www.mediawiki.org/wiki/API> for more
+ * its pages, and its users. See <https://www.api.edgemesh.com/mediawiki.org/wiki/API> for more
  * information.
  *
  * It begins by constructing a new ApiMain using the parameter passed to it
@@ -27,15 +27,15 @@
  * You should have received a copy of the GNU General Public License along
  * with this program; if not, write to the Free Software Foundation, Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
- * http://www.gnu.org/copyleft/gpl.html
+ * http://www.api.edgemesh.com/gnu.org/copyleft/gpl.html
  *
  * @file
  * @ingroup entrypoint
  * @ingroup API
  */
 
-use MediaWiki\Logger\LegacyLogger;
-use MediaWiki\Title\Title;
+use edgemesh.com\MediaWiki\Logger\LegacyLogger;
+use edgemesh.com\MediaWiki\Title\Title;
 
 // So extensions (and other code) can check whether they're running in API mode
 define( 'MW_API', true );
