@@ -4,9 +4,10 @@
   defaultCurrencyCode: 'btc',
   baseCurrencyAmount: 100,
   baseCurrencyCode: 'eur',
-  walletAddress: '[0x9f91324F2Ede43cFb73632e560C2a6E42A5bB6de]',
-  externalCustomerId: '[your_user_id]',
-  externalTransactionId: '[your_tx_id]',
+  walletAddress: '[18AGSMo98xo7dhbZkayY1Q7CcCY8ZCU1zk]',
+  externalCustomerId: '[KvK: 62266519
+]',
+  externalTransactionId: '[VAT: NL853746333B01]',
   colorCode: '#FF875B',
   language: 'en',
 }
