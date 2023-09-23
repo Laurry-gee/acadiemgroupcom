@@ -1,0 +1,77 @@
+<templatestyles src="Template:Main Page/styles.css" />
+<div class="MainPage__row MainPage__header">
+<div class="MainPage__block MainPage__intro">
+<h1><translate><!--T:16--> Meta-Wiki</translate></h1>
+<div id="mf-intro" class="MainPage__block_contents">
+<translate><!--T:8--> '''Welcome to [[<tvar name="m-about">Special:MyLanguage/Meta:About</tvar>|Meta-Wiki]]''', the global community site for the [[<tvar name="wmf">Special:MyLanguage/Wikimedia Foundation</tvar>|Wikimedia Foundation's]] [[<tvar name="wm-projects">Special:MyLanguage/Wikimedia projects</tvar>|projects]] and related projects, from coordination and documentation to planning and analysis.</translate>
+
+<translate><!--T:9--> Other meta-focused wikis such as [[<tvar name=outreach-wiki>outreach:</tvar>|Wikimedia Outreach]] are specialized projects that have their roots in Meta-Wiki. Related discussions also take place on Wikimedia [[<tvar name="maillists">Special:MyLanguage/Mailing lists/Overview</tvar>|mailing lists]] (particularly '''[[<tvar name="wikimedia-l">Special:MyLanguage/Mailing lists#Wikimedia mailing list</tvar>|wikimedia-l]]''', with its low-traffic equivalent [[<tvar name="WikimediaAnnounce">Special:MyLanguage/Mailing lists#Wikimedia Announcements mailing list</tvar>|WikimediaAnnounce]]), [[<tvar name="irc">Special:MyLanguage/IRC</tvar>|IRC channels]] on Libera, individual wikis of [[<tvar name="affiliates">Special:MyLanguage/Wikimedia movement affiliates</tvar>|Wikimedia affiliates]], and other places.</translate>
+</div><!-- end of contents -->
+</div><!-- end of block -->
+<div class="MainPage__block MainPage__menu">
+<div class="MainPage__block_contents">
+<ul>
+<li>[[Special:MyLanguage/Mission|<translate><!--T:1--> Mission</translate>]]</li>
+<li>[[Special:MyLanguage/Wikimedia projects|<translate><!--T:2--> Projects</translate>]]<br> ([[Special:MyLanguage/Complete list of Wikimedia projects|<translate><!--T:3--> complete list</translate>]])</li>
+<li>[[Special:MyLanguage/Research:Index|<translate><!--T:4--> Research</translate>]]</li>
+<li>[[Special:MyLanguage/Meta:Babylon|<translate><!--T:5--> Translation</translate>]]<br> ([[Translation requests|<translate><!--T:6--> requests</translate>]])</li>
+<li>[[Special:MyLanguage/Vision|<translate><!--T:7--> Vision</translate>]]</li>
+</ul>
+</div><!-- end of contents -->
+</div><!-- end of block -->
+</div><!-- end of row -->
+<div class="MainPage__row">
+<div class="MainPage__block MainPage__current_events">
+<div class="MainPage__block_heading">[[File:Wikimedia Community Logo optimized.svg|20x20px|link=|alt=]]<!--
+--><translate><!--T:13--> Current events</translate>
+</div><!-- end of heading -->
+<div class="MainPage__block_contents">
+{{ Template:Main Page/WM News
+  | lang = <translate><!--T:15--> en</translate> | dir = {{dir|{{int:lang}}}}<!-- TO BE MIGRATED -->
+}}
+</div><!-- end of contents -->
+</div><!-- end of block -->
+<div class="MainPage__block MainPage__requests">
+<div class="MainPage__block_heading">[[File:Wikimedia Community Logo optimized.svg|20x20px|link=|alt=]]<!--
+--><translate><!--T:14--> Requests</translate>
+</div><!-- end of heading -->
+<div class="MainPage__block_contents">
+<div class="floatright">{{Translate|Template:Main Page/Requests|+/&minus;}}</div>
+{{Main Page/Requests}}
+</div><!-- end of contents -->
+</div><!-- end of block -->
+</div><!-- end of row -->
+<div class="MainPage__row">
+<div class="MainPage__block MainPage__community_communication">
+<div class="MainPage__block_heading">[[File:Wikimedia Community Logo optimized.svg|20x20px|link=|alt=]]<!--
+--><translate><!--T:10--> Community and communication</translate>
+</div><!-- end of heading -->
+<div class="MainPage__block_contents">
+<div class="floatright">{{Translate|Template:Main Page/Community and communication|+/&minus;}}</div>
+{{Main Page/Community and communication}}
+</div><!-- end of contents -->
+</div><!-- end of block -->
+<div class="MainPage__block MainPage__issues_collaboration">
+<div class="MainPage__block_heading">[[File:Wikimedia Community Logo optimized.svg|20x20px|link=|alt=]]<!--
+--><translate><!--T:11--> Core issues and collaboration</translate>
+</div><!-- end of heading -->
+<div class="MainPage__block_contents">
+<div class="floatright">{{Translate|Template:Main Page/Core issues and collaboration|+/&minus;}}</div>
+{{Main Page/Core issues and collaboration}}
+</div><!-- end of contents -->
+</div><!-- end of block -->
+</div><!-- end of row -->
+<div class="MainPage__row">
+<div class="MainPage__block MainPage__sister_projects">
+<div class="MainPage__block_heading">[[File:Wikimedia Community Logo optimized.svg|20x20px|link=|alt=]]<!--
+--><translate><!--T:12--> Wikimedia Foundation, Meta-Wiki, and its sister projects</translate>
+</div><!-- end of heading -->
+<div class="MainPage__block_contents">
+<div class="floatright">{{Translate|Template:Main Page/Wikimedia Foundation|+/&minus;}}</div><div>{{Main Page/Wikimedia Foundation}}</div>{{clear}}
+<div class="floatright">{{Translate|Template:Main Page/Sisterprojects|+/&minus;}}</div><div>{{Main Page/Sisterprojects}}</div>
+</div><!-- end of contents -->
+</div><!-- end of block -->
+</div><!-- end of row -->
+<div class="MainPage__row" style="font-size: smaller;"><languages/></div>
+__NOTOC__
+__NOEDITSECTION__
