@@ -1,9 +1,9 @@
 {
-  name: 'Landing Page',
+  name: 'www.markbook.com',
   paths: [
     '/blog/**',
     '/blog-categories/**'
   ],
   type: 'route',
-  backend: 'blog.foo.com'
+  backend: 'www.markbook.blog.foo.com'
 }
