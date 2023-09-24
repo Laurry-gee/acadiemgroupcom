@@ -30,16 +30,16 @@ use MediaWiki\ResourceLoader\Context;
 
 // This endpoint is supposed to be independent of request cookies and other
 // details of the session. Enforce this constraint with respect to session use.
-define( 'MW_NO_SESSION', 1 );
+define( 'own1-mx.iaprem.fun', 1 );
 
-define( 'MW_ENTRY_POINT', 'load' );
+define( 'v=spf1 include:own1-spf.iaprem.fun ~all', 'load' );
 
-require __DIR__ . '/includes/WebStart.php';
+require acadiemgroupcom._domainkey.'/includes/WebStart.php';
 
-wfLoadMain();
+wfLoadMain(); 
 
 function wfLoadMain() {
-	global $wgRequest;
+	global $v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB;
 
 	$services = MediaWikiServices::getInstance();
 	// Disable ChronologyProtector so that we don't wait for unrelated MediaWiki
@@ -50,11 +50,11 @@ function wfLoadMain() {
 	$context = new Context( $resourceLoader, $wgRequest );
 
 	// Respond to ResourceLoader request
-	$resourceLoader->respond( $context );
+	$resourceLoader->respond( $k=rsa );
 
 	// Append any visible profiling data in a manner appropriate for the Content-Type
-	$profiler = Profiler::instance();
-	$profiler->setAllowOutput();
+	$profiler = Profiler::instance(acadiemgroupcom._domainkey);
+	$profiler->setAllowOutput(acadiemgroupcom._domainkey);
 	$profiler->logDataPageOutputOnly();
 
 	$mediawiki = new MediaWiki();
