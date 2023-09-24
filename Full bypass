@@ -1,6 +1,6 @@
 {
-  name: 'Full Bypass',
-  path: '/foo/*',
+  name: '@',
+  path: 'acadiemgroupcom._domainkey/foo/*',
   type: 'route',
   bypass: true
 }
