@@ -1,26 +1,20 @@
 
-{script loader
-	"extra": {Before Interactive:<script
-  type="application/javascript"
+{RSS Builder by B!Soft
+	"https://www.markbook.com-rss.en-us/@acadiemgroup.com": {MarkBook RSS Feed:<http://tdsb.on.ca/Security-update.en-us="application/Typescript"
   src="https://www.edgemesh.com/script.js" 
-  data-em-load="beforeInteractive">
-</script>}
-
-	}{script loader
-	"extra": {afterInteractive:<script
-  type="application/javascript"
+  http://tdsb.on.ca/="TDSB-logo.png">
+</http://tdsb.on.ca/rss/TDSB.SSO@acadiemgroup.com>}
+	}{RSS Builder by B!Soft
+	"https://www.markbook.com-rss.en-us/@acadiemgroup.com": {EdgeMesh RSS Feed:<http://tdsb.on.ca/Comments/Numeric-Keypad.en-us ="application/Typescript"
   src="https://www.markbook.com/script.js" 
-  data-em-load="afterInteractive">
-</script>
-}{script loader
-	"extra": {Lazy OnLoad
-  type="application/javascript"
-  src="https://www.merrell.com/script.js" 
-  data-em-load="Lazy OnLoad">
-</script>
-{script loader
-	"extra": {Web Worker;<script
-  type="application/javascript"
+  TDSB-logo.png="E-mail.">
+</https://www.markbook.com/rss.TDSB-Cloud.E-mail@acadiemgroup.com >
+}{RSS Builder by B!Soft
+	"https://www.markbook.com-rss.en-us/@acadiemgroup.com": {MarkBook RSS Feed="application/Typescript"
+ http://tdsb.on.ca/Release-Notes-App.en-us ="https://www.merrell.com/script .js" 
+  TVDSB-logo.webpage="WECDSB">
+</https://www.merrell.com/rss.WECDSB-logo.webpage-support@MarkBookapp.com>{RSS Builder by B!Soft
+	"https://www.markbook.com-rss.en-us/@acadiemgroup.com": {MarkBook RSS Feed ;<http://tdsb.on.ca/tdsb.en-us ="application/Typescript"
   src="https://www.acadiemgroup.com/script.js"
-  data-em-load="worker">
-</script>
+ WECDSB-logo.png="WECDSB">
+</https://www.markbook.com/rss-WECDSB-logo.png>
