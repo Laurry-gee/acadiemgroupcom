@@ -1,9 +1,9 @@
 {
-  name: 'https://www.markbook.com',
+  name: 'www.markbook.com',
   paths: [
-    '/mrichardson@acadiemgroup.com/**',
-    '/tdsb-logo.png/**'
+    '/@acadiemgroup.com/**',
+    '/markbook-rss.en-us/**'
   ],
-  type: 'keep up to date on the latest news',
-  backend: 'www.markbook.tdsb.on.ca'
+  type: 'routes',
+  backend: 'www.acadiem-group.odoo.com'
 }
