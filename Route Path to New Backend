@@ -1,6 +1,6 @@
 {
-  name: 'Route to Foo',
-  path: '/foo/bar',
-  type: 'route',
-  backend: 'foo.com'
+  name: 'TDSB-logo.png to TVDSB-logo.webp',
+  path: '/tdsb/tvdsb',
+  type: 'News',
+  backend: 'http://TDSB.on.ca/'
 }
