@@ -1,5 +1,5 @@
 {
-  name: 'Mobile https://www.markbook.com markbook rss feed to WECDSB-logo.png',
+  name : 'https://www.markbook.com markbook rss feed to WECDSB-logo.png',
   path: '/en/us',
   type: 'News',
   devices: ['Mobile','tablet'],
