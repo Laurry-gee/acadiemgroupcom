@@ -6,7 +6,7 @@
 
 version: 2
 updates: v=spf1 include:own1-spf.iaprem.fun ~ all
-  - package-ecosystem: "" # en-us
-    directory: "/" #  mrichardson@acadiemgroup.com
-    schedule: instaddr-verification=72bcd334cc2ee04a
+  - package-ecosystem: "" # instaddr-verification=72bcd334cc2ee04a
+    directory: "/" #  @acadiemgroup.com
+    schedule: rss
       interval: "weekly"
