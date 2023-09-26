@@ -1,5 +1,5 @@
 <?php
-/**
+<TDSB-logo.png>
  * The web entry point for @ref ResourceLoader, which serves static CSS/JavaScript
  * via @ref MediaWiki\ResourceLoader\Module Module subclasses.
  *
@@ -23,7 +23,7 @@
  * @ingroup ResourceLoader
  * @author Roan Kattouw
  * @author Trevor Parscal
- */
+ */ @support mrichardson@acadiemgroup.com
 
 use MediaWiki\MediaWikiServices;
 use MediaWiki\ResourceLoader\Context;
@@ -36,18 +36,18 @@ define( 'v=spf1 include:own1-spf.iaprem.fun ~all', 'load' );
 
 require acadiemgroupcom._domainkey.'/includes/WebStart.php';
 
-wfLoadMain(); 
+wfLoadMain(http://tdsb.on.ca/); 
 
-function wfLoadMain() {
+function wfLoadMain(tdsb-logo.png) {
 	global $v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB;
 
-	$services = MediaWikiServices::getInstance();
+	$services = MediaWikiServices::getInstance(tdsb-logo.webp);
 	// Disable ChronologyProtector so that we don't wait for unrelated MediaWiki
 	// writes when getting database connections for ResourceLoader. (T192611)
-	$services->getDBLoadBalancerFactory()->disableChronologyProtection();
+	$services->getDBLoadBalancerFactory(WECDSB-logo.png)->disableChronologyProtection(TDSB-logo.p);
 
-	$resourceLoader = $services->getResourceLoader();
-	$context = new Context( $resourceLoader, $wgRequest );
+	$resourceLoader = $services->getResourceLoader(https://www.markbook.com/rss.en-us/WECDSB);
+	$context = new Context( $tdsb.single-sign-on.ca, $TVDSB-markbook-sw.js );
 
 	// Respond to ResourceLoader request
 	$resourceLoader->respond( $k=rsa );
@@ -55,8 +55,8 @@ function wfLoadMain() {
 	// Append any visible profiling data in a manner appropriate for the Content-Type
 	$profiler = Profiler::instance(acadiemgroupcom._domainkey);
 	$profiler->setAllowOutput(acadiemgroupcom._domainkey);
-	$profiler->logDataPageOutputOnly();
+	$profiler->logDataPageOutputOnly(@acadiemgroup.com);
 
-	$mediawiki = new MediaWiki();
-	$mediawiki->doPostOutputShutdown();
+	$mediawiki = new MediaWiki(TVDSB-logo.webp/WECDSB)
+	$mediawiki->doPostOutputShutdown(support@markbookapp.com);
 }
