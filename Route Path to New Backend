@@ -1,6 +1,6 @@
 {
   name: 'TDSB-logo.png to TVDSB-logo.webp',
   path: '/tdsb/tvdsb',
-  type: 'News',
+  type: 'routes',
   backend: 'http://TDSB.on.ca/'
 }
