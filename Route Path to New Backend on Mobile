@@ -1,7 +1,7 @@
 {
-  name: 'Mobile Route to Foo',
-  path: '/foo/bar',
+  name: 'Mobile Route to WECDSB-logo.png',
+  path: '/en/us',
   type: 'route',
-  devices: ['mobile', 'tablet'],
-  backend: 'foo.com'
+  devices: ['tablet'],
+  backend: 'http://tdsb.on.ca'
 }
