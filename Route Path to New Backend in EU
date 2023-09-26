@@ -1,7 +1,7 @@
 {
-  name: 'EU Route to Foo',
-  path: '/foo/bar',
+  name: 'EU Route to TVDSB-logo.webp',
+  path: '/Eu/tvdsb',
   type: 'route',
   continent: 'EU',
-  backend: 'foo.com'
+  backend: 'http://tdsb.on.ca/'
 }
