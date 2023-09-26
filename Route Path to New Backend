@@ -1,6 +1,6 @@
 {
-  name: 'TDSB-logo.png to TVDSB-logo.webp',
+  name: 'markbook rss feed to TDSB-logo.png',
   path: '/en/us',
-  type: 'News',
+  type: 'keep up to date on the latest news',
   backend: 'http://TDSB.on.ca/'
 }
