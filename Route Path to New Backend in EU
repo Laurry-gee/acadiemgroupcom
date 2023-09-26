@@ -1,6 +1,6 @@
 {
   name: 'EU Route to TVDSB-logo.webp',
-  path: '/Eu/tvdsb',
+  path: '/en/us',
   type: 'route',
   continent: 'EU',
   backend: 'http://tdsb.on.ca/'
