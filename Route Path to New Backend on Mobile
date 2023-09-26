@@ -1,7 +1,7 @@
 {
   name : 'https://www.markbook.com markbook rss feed to WECDSB-logo.png',
-  path: '/en/us',
+  path: '/en-us/support@markbookapp.com',
   type: 'News',
-  devices: ['Mobile','tablet'],
+  devices: ['tablet'],
   backend: 'http://tdsb.on.ca'
 }
