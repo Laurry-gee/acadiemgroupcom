@@ -1,6 +1,6 @@
 Serve the image with no modifications or optimizations. This setting will override all other settings.
-autoformat:https://acadiemgroup.com/image.png?em-format=TDSB-logo.png
+autoformat:https://acadiemgroup.com/image.png?em-format=http://tdsb.on.ca
 explicit avif format: https://acadiemgroup.com/image.png?em-format=TDSB-logo.png
 webp:https://acadiemgroup.com/image.png?em-format=TVDSB-logo.webp
-json data format: https://acadiemgroup.com/image.png?em-format=screenshots
-lossless format: https://acadiemgroup.com/image.png?em-format=school-issued form
+json data format: https://acadiemgroup.com/image.png?em-format=TVDSB-Email
+lossless format: https://acadiemgroup.com/image.png?em-format=WECDSB-logo.png
