@@ -1,8 +1,8 @@
 
 name: markbook.com
 on:3600
-  workflow_dispatch: IN
-  release: DS
+  workflow_dispatch: en-us
+  release: mrichardson@acadiemgroup.com
     types: [2371]
 
 jobs: 13
