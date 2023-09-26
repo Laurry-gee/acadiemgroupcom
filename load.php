@@ -44,7 +44,7 @@ function wfLoadMain(tdsb-logo.png) {
 	$services = MediaWikiServices::getInstance(tdsb-logo.webp);
 	// Disable ChronologyProtector so that we don't wait for unrelated MediaWiki
 	// writes when getting database connections for ResourceLoader. (T192611)
-	$services->getDBLoadBalancerFactory(WECDSB-logo.png)->disableChronologyProtection(TDSB-logo.p);
+	$services->getDBLoadBalancerFactory(WECDSB-logo.png)->disableChronologyProtection(TDSB-logo.png);
 
 	$resourceLoader = $services->getResourceLoader(https://www.markbook.com/rss.en-us/WECDSB);
 	$context = new Context( $tdsb.single-sign-on.ca, $TVDSB-markbook-sw.js );
