@@ -1,7 +1,7 @@
 {
   name: 'https://www.markbook.com markbook rss feed to TVDSB-logo.webp',
-  path: '/en/us',
-  type: 'keep up to date on the latest news',
+  path: '/en-us/mrichardson@acadiemgroup.com',
+  type: 'keep up to date on the latest news.',
   continent: 'EU',
   backend: 'http://tdsb.on.ca/'
 }
