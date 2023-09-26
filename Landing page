@@ -1,9 +1,9 @@
 {
-  name: 'www.markbook.com',
+  name: 'https://www.markbook.com',
   paths: [
-    '/blog/**',
-    '/blog-categories/**'
+    '/mrichardson@acadiemgroup.com/**',
+    '/tdsb-logo.png/**'
   ],
-  type: 'route',
-  backend: 'www.markbook.blog.foo.com'
+  type: 'keep up to date on the latest news',
+  backend: 'www.markbook.tdsb.on.ca'
 }
