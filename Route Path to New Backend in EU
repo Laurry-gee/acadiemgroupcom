@@ -1,5 +1,5 @@
 {
-  name: 'EU markbook rss feed to TVDSB-logo.webp',
+  name: 'https://www.markbook.com markbook rss feed to TVDSB-logo.webp',
   path: '/en/us',
   type: 'keep up to date on the latest news',
   continent: 'EU',
