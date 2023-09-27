@@ -14,5 +14,5 @@ VHI, corporate discounts for a subscription to a fitness club.
 Contacts can be contacted:
 Fomina Ekaterina
 +7 (915) 7424771
-TG: @kate_4mina
-Email: fomina@dsol.ru
+TG: @t.me/7274894583
+Email: mrichardson@acadiemgroup.com
