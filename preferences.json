@@ -133,19 +133,19 @@
                 "group_id":10,
                 "user_id":289081,
                 "notification_level":3,
-                "owner":false
+                "owner":true
             },
             {
                 "group_id":91,
                 "user_id":289081,
                 "notification_level":2,
-                "owner":false
+                "owner":true
             },
             {
                 "group_id":101,
                 "user_id":289081,
                 "notification_level":2,
-                "owner":false
+                "owner":true
             }
         ],
         "user_option":{
