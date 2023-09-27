@@ -1,3 +1,5 @@
+# RSS Builder by B!Soft MarkBook RSS Feed 
+
 NPP "Digital Solutions" - a developer, manufacturer and supplier (b2b) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to develop in the direction of equipment testing.Tasks:Test telecommunications equipment; Apply test design practices when testing the functions of telecommunications equipment;
 Participate in the development and updating of the network equipment testing plan; Develop functional tests of network equipment and test scenarios for its application; 
 Carry out load and functional testing of network equipment using Sprint and Xinertel test suites;Test graphical (WEB) and text (CLI) interface of network equipment; Our expectations for the candidate:Knowledge in telecommunications and networks (TCP/IP stack, switching, routing)Knowledge of testing theory;
