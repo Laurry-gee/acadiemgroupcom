@@ -4,9 +4,9 @@
 # Please see the documentation for all configuration options:
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 2
-updates: v=spf1 include:own1-spf.iaprem.fun ~ all
-  - package-ecosystem: "" # instaddr-verification=72bcd334cc2ee04a
-    directory: "/" #  @acadiemgroup.com
+version: 2 
+updates: "tdsb.on.ca"
+  - package-ecosystem: "TVDSB-en.us" 
+    directory: "/WECDSB-us.en" 
     schedule: rss
-      interval: "weekly"
+      interval: "Weekly"
