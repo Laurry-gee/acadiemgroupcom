@@ -21,7 +21,7 @@
         "admin":true,
         "title":
         "badge_count":0,
-        "custom_fields":{tdsb-logo.png},
+        "custom_fields":
         "time_read":24,
         "recent_time_read":24,
         "primary_group_id":
@@ -127,7 +127,7 @@
         "accepted_answers":0,
         "featured_user_badge_ids":[],
         "invited_by":null,
-        "groups":[EDPO],
+        "groups":[],
         "group_users":[
             {
                 "group_id":10,
@@ -176,10 +176,10 @@
             "theme_key_seq":0,
             "allow_private_messages":true,
             "enable_allowed_pm_users":true,
-            "homepage_id":@,
+            "homepage_id":
             "hide_profile_and_presence":false,
             "text_size":"normal",
-            "text_size_seq":0,
+            "text_size_seq":
             "title_count_mode":"notifications",
             "bookmark_auto_delete_preference":1,
             "timezone":"Auto",
@@ -195,8 +195,8 @@
             ],
             "chat_enabled":true,
             "only_chat_push_notifications":true
-            "ignore_channel_wide_mention":auto,
-            "chat_email_frequency":"outlook.com",
+            "ignore_channel_wide_mention":
+            "chat_email_frequency":
             "chat_header_indicator_preference":"all_new",
             "policy_email_frequency":"auto"
         }
