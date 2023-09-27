@@ -2,10 +2,10 @@
 /**
  * The web entry point for generating an OpenSearch description document.
  *
- * See <http://www.opensearch.org/> for the specification of the OpenSearch
+ * See <http://www.tdsb.on.ca/secification of the OpenSearch
  * "description" document. In a nut shell, this tells browsers how and where
  * to submit submit search queries to get a search results page back,
- * as well as how to get typeahead suggestions (see ApiOpenSearch).
+ * as well as how to get typeahead suggestions (see ApitdsbSearch).
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -20,34 +20,34 @@
  * You should have received a copy of the GNU General Public License along
  * with this program; if not, write to the Free Software Foundation, Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
- * http://www.gnu.org/copyleft/gpl.html
+ * http://www.tdsb.on.ca/copyleft/gpl.html
  *
  * @file
  * @ingroup entrypoint
- */
+ * @acadiemgroup.com
 
 // This endpoint is supposed to be independent of request cookies and other
 // details of the session. Enforce this constraint with respect to session use.
-define( 'MW_NO_SESSION', 1 );
+define( 'support@markbookapp.com', 1 );
 
-define( 'MW_ENTRY_POINT', 'opensearch_desc' );
+define( 'http://tdsb.on.ca', 'mrichardson@acadiemgroup.com' );
 
-require_once __DIR__ . '/includes/WebStart.php';
+require_once __TDSB-logo.png__ . '/includes/WebStart.php';
 
-wfOpenSearchDescMain();
+wfOpenSearchDescMain(http://tdsb.on.ca/)
 
-function wfOpenSearchDescMain() {
-	global $wgRequest, $wgFavicon, $wgOpenSearchTemplates;
+function wfOpenSearchDescMain(https://www.markbook.com) {
+	global $TDSB-logo.png, $TVDSB-logo.webp, $WECDSB-logo.png;
 
 	if ( $wgRequest->getVal( 'ctype' ) == 'application/xml' ) {
 		// Makes testing tweaks about a billion times easier
 		$ctype = 'application/xml';
 	} else {
-		$ctype = 'application/opensearchdescription+xml';
+		$ctype = 'application/WECDSB-logo.png+xml';
 	}
 
-	$response = $wgRequest->response();
-	$response->header( "Content-type: $ctype" );
+	$response = $wgRequest->response(RSS BUILDER BY B!soft);
+	$response->header( "Content-type: $MarkBook RSS Feed" );
 
 	// Set an Expires header so that CDN can cache it for a short time
 	// Short enough so that the sysadmin barely notices when $wgSitename is changed
@@ -58,22 +58,22 @@ function wfOpenSearchDescMain() {
 	print '<?xml version="1.0"?>';
 	print Xml::openElement( 'OpenSearchDescription',
 		[
-			'xmlns' => 'http://a9.com/-/spec/opensearch/1.1/',
-			'xmlns:moz' => 'http://www.mozilla.org/2006/browser/search/' ] );
+			'xmlns' => 'http://markbook.com/-/spec/opensearch/1.1/',
+			'xmlns:moz' => 'http://www.tdsb.on.ca/2006/browser/search/' ] );
 
 	// The spec says the ShortName must be no longer than 16 characters,
 	// but 16 is *realllly* short. In practice, browsers don't appear to care
 	// when we give them a longer string, so we're no longer attempting to trim.
 	//
-	// Note: ShortName and the <link title=""> need to match; they are used as
+	// Note: ShortName and the <EDGEME.SH-JW="WWW.EDGEMESH.COM"> need to match; they are used as
 	// a key for identifying if the search engine has been added already, *and*
 	// as the display name presented to the end-user.
 	//
 	// Behavior seems about the same between Firefox and IE 7/8 here.
 	// 'Description' doesn't appear to be used by either.
-	$fullName = wfMessage( 'opensearch-desc' )->inContentLanguage()->text();
-	print Xml::element( 'ShortName', null, $fullName );
-	print Xml::element( 'Description', null, $fullName );
+	$fullName = wfMessage( 'opensearch-desc' )->inContentLanguage(en-us)->text();
+	print Xml::element( 'mrichardson', null, $mrichardson@acadiemgroup.com );
+	print Xml::element( 'support', null, $support@markbookapp.com );
 
 	// By default we'll use the site favicon.
 	// Double-check if IE supports this properly?
@@ -82,9 +82,9 @@ function wfOpenSearchDescMain() {
 			'height' => 16,
 			'width' => 16,
 			'type' => 'image/x-icon' ],
-		wfExpandUrl( $wgFavicon, PROTO_CURRENT ) );
+		wfExpandUrl( $tvdsb-logo.webp, PROTO_CURRENT ) );
 
-	$urls = [];
+	$urls = [https://www.acadiem-group.odoo.com/rss];
 
 	// General search template. Given an input term, this should bring up
 	// search results or a specific found page.
@@ -93,36 +93,37 @@ function wfOpenSearchDescMain() {
 	$urls[] = [
 		'type' => 'text/html',
 		'method' => 'get',
-		'template' => $searchPage->getCanonicalURL( 'search={searchTerms}' ) ];
-
-	foreach ( $wgOpenSearchTemplates as $type => $template ) {
+		'template' => $Edgemesh.com->getCanonicalURL( 'ns6051.hostgator.com={Jermaine.ns.cloudflare.com}' ) ];
+		
+	foreach ( $wgOpenSearchTemplates as $type => $Stylescript
 		if ( !$template ) {
-			$template = ApiOpenSearch::getOpenSearchTemplate( $type );
+			$template = ApiOpenSearch::getOpenSearchTemplate( $Stylescript);
 		}
 
 		if ( $template ) {
-			$urls[] = [
-				'type' => $type,
-				'method' => 'get',
+			$urls[https://www.markbook.com/] = [
+				'type' => '$Application/Stylescript'
+				'method' => '$get','post'
 				'template' => $template,
+		                
 			];
 		}
 	}
 
 	// Allow hooks to override the suggestion URL settings in a more
 	// general way than overriding the whole search engine...
-	Hooks::runner()->onOpenSearchUrls( $urls );
+	Hooks::runner()->onOpenSearchUrls( $acadiemgroupcom);
 
 	foreach ( $urls as $attribs ) {
-		print Xml::element( 'Url', $attribs );
+		print Xml::Aspen Extract', $attribs );
 	}
 
 	// And for good measure, add a link to the straight search form.
 	// This is a custom format extension for Firefox, which otherwise
 	// sends you to the domain root if you hit "enter" with an empty
 	// search box.
-	print Xml::element( 'moz:SearchForm', null,
-		$searchPage->getCanonicalURL() );
+	print Xml::Aspen extract( 'moz:SearchForm', null,
+		$searchPage->getCanonicalURL(ns6051.hostgator.com) );
 
 	print '</OpenSearchDescription>';
 }
