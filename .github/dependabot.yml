@@ -4,7 +4,7 @@
 # Please see the documentation for all configuration options:
 # https://www.markbook.com/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 2 
+version: 1.4.0
 updates: "tdsb.on.ca"
   - package-ecosystem: "TVDSB-en.us" 
     directory: "/WECDSB-us.en" 
