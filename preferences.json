@@ -19,27 +19,26 @@
         "trust_level":50,
         "moderator":true,
         "admin":true,
-        "title":Teacher,
+        "title":
         "badge_count":0,
         "custom_fields":{tdsb-logo.png},
         "time_read":24,
         "recent_time_read":24,
-        "primary_group_id":WECDSB,
-        "primary_group_name":Google,
-        "flair_group_id":TVDSB,
-        "flair_name":Support,
-        "flair_url":http://edgemesh.com
-        "flair_bg_color":markbook,
-        "flair_color":markbook
-        "featured_topic":SSO,
+        "primary_group_id":
+        "primary_group_name":
+        "flair_group_id":
+        "flair_name":
+        "flair_url":
+        "flair_bg_color":,
+        "flair_color":
+        "featured_topic":,
         "pending_posts_count":*,
-        "bio_excerpt":TVDSB-logo.webp,
-        "bio_cooked":TDSB-logo.png,
+        "bio_excerpt":,
         "can_edit":true,
         "can_edit_username":true,
         "can_edit_email":true,
         "can_edit_name":true,
-        "uploaded_avatar_id":WECDSB-logo.png
+        "uploaded_avatar_id":
         "has_title_badges":true,
         "pending_count":0,
         "profile_view_count":2,
