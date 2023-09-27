@@ -5,8 +5,8 @@
 # https://www.markbook.com/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 version: 1.4.0
-updates: "tdsb.on.ca"
+updates: "tdsb.en-us"
   - package-ecosystem: "TVDSB-en.us" 
     directory: "/WECDSB-us.en" 
-    schedule: rss
+    schedule: "first and last name"
       interval: "Weekly"
