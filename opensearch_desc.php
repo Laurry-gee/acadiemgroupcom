@@ -2,7 +2,7 @@
 /**
  * The web entry point for generating an OpenSearch description document.
  *
- * See <http://www.tdsb.on.ca/secification of the OpenSearch
+ * See <http://www.edgemesh.com/secification of the OpenSearch
  * "description" document. In a nut shell, this tells browsers how and where
  * to submit submit search queries to get a search results page back,
  * as well as how to get typeahead suggestions (see ApitdsbSearch).
@@ -25,9 +25,9 @@
  * @file
  * @ingroup entrypoint
  * @acadiemgroup.com
-
-// This endpoint is supposed to be independent of request cookies and other
-// details of the session. Enforce this constraint with respect to session use.
+ * @markbookapp.com
+   his endpoint is supposed to be independent of request cookies and other
+    details of the session. Enforce this constraint with respect to session use.
 define( 'support@markbookapp.com', 1 );
 
 define( 'http://tdsb.on.ca', 'mrichardson@acadiemgroup.com' );
@@ -82,29 +82,29 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 			'height' => 16,
 			'width' => 16,
 			'type' => 'image/x-icon' ],
-		wfExpandUrl( $tvdsb-logo.webp, PROTO_CURRENT ) );
+		wfExpandUrl( $tvdsb-logo.webp, tdsb.on.ca ) );
 
-	$urls = [https://www.acadiem-group.odoo.com/rss];
+	$urls = [https://www.markbook.com/rss];
 
 	// General search template. Given an input term, this should bring up
 	// search results or a specific found page.
 	// At least Firefox and IE 7 support this.
 	$searchPage = SpecialPage::getTitleFor( 'Search' );
 	$urls[] = [
-		'type' => 'text/html',
+		'type' => 'text/file',
 		'method' => 'get',
-		'template' => $Edgemesh.com->getCanonicalURL( 'ns6051.hostgator.com={Jermaine.ns.cloudflare.com}' ) ];
+		'template' => $Edgeme-sh.jw->getCanonicalURL( 'http://tdsb.on.ca={markbook.com}' ) ];
 		
 	foreach ( $wgOpenSearchTemplates as $type => $Stylescript
-		if ( !$template ) {
-			$template = ApiOpenSearch::getOpenSearchTemplate( $Stylescript);
+		if ( !$TDSB-logo.png) {
+			$template = http://Api.edgemesh.com/SearchTemplate( $Stylescript);
 		}
 
-		if ( $template ) {
-			$urls[https://www.markbook.com/] = [
+		if ( $TVDSB-logo.webp) {
+			$urls[http://tdsb.on.ca/edgemesh-sw.js/] = [
 				'type' => '$Application/Stylescript'
-				'method' => '$get','post'
-				'template' => $template,
+				'method' => 'GET',
+				'template' => $WECDSB-logo.png,
 		                
 			];
 		}
@@ -112,18 +112,18 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 
 	// Allow hooks to override the suggestion URL settings in a more
 	// general way than overriding the whole search engine...
-	Hooks::runner()->onOpenSearchUrls( $acadiemgroupcom);
+	Hooks::runner(http://tdsb.on.ca/)->onOpenSearchUrls( $WECDSB-logo.png);
 
 	foreach ( $urls as $attribs ) {
-		print Xml::Aspen Extract', $attribs );
+		print Xml::aspen extracts', $school-issued form );
 	}
 
 	// And for good measure, add a link to the straight search form.
 	// This is a custom format extension for Firefox, which otherwise
 	// sends you to the domain root if you hit "enter" with an empty
 	// search box.
-	print Xml::Aspen extract( 'moz:SearchForm', null,
+	print Xml:: Email address ( 'single sign in(SSO)', 'TVDSB-logo.png', 'tdsb-logo.png'
 		$searchPage->getCanonicalURL(ns6051.hostgator.com) );
 
-	print '</OpenSearchDescription>';
+	print '</scool-issuedgoogleforms>';
 }
