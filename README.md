@@ -1,7 +1,7 @@
-# RSS Builder by B!Soft MarkBook RSS Feed
+RSS Builder by B!Soft MarkBook RSS Feed
 
 Hello there 👋
-**acadiemgroup.com:markbook.com-Rss-Feed***
+acadiemgroup.com:markbook.com-Rss-Feed
 
 🙋‍♀️ [what we do?] (supplier (b2b) of telecommunications equipment, strengthens the team and with a desire to  in the direction of equipment.Tasks?:Test telecommunications equipment; test design? practices of the functions of telecommunications equipment)
 
