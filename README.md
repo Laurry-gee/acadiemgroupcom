@@ -9,7 +9,7 @@ Hello there 👋
 
 🍪🍔 [for breakfast?](Work in the office 5/2 (Avis motorways), the beginning of the working day is flexible (from 08:00 to 11:00); The level of income based on the results of the work done and based on the wishes of the wizard Bonuses? for closing the stages of projects and the projects themselves)
 
-🧙🪄 [listen to the wizard] (Registration in accordance with the Labor Code of California;Accreditation?  IT company with a deferment from military service. corporate discounts for a subscription to a fitness club)
+🧙🪄 [listen to the wizard] (Registration in accordance with the Labor Code of the united state America; Accreditation?  IT company with a deferment from military service. corporate discounts for a subscription to a fitness club)
 Contacts can be contacted:
 kate susmouski
 +1 727 489 4583
