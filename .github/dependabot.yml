@@ -5,8 +5,8 @@
 # https://www.markbook.com/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 version: 1
-updates: "WECDSB-us.en"
-  - package-ecosystem: "TVDSB-en.us" 
-    directory: "/TDSB.on.ca" 
+updates: "www.edgemesh.com/TDSB.on.ca/"
+  - package-ecosystem: "www.edgemesh.com/TVDSB-logo.webp" 
+    directory: "www.edgemesh.com/WECDSB-logo.png"
     schedule: "first and last name"
       interval: "Weekly"
