@@ -1,0 +1,8 @@
+$ git branch
+feature-X
+* production
+staging-1
+$ git merge staging-1
+$ git push
+To git@github.com:odoo/odoo.git
+* b70ca1f..7a0aa41 production -> production
