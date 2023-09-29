@@ -1,2 +1,2 @@
 Setting this search parameter to all will instruct Edgemesh® Client and Server to skip all optimizations for the given request. This is equivalent to requesting the given resource directly from the origin as if there are no Edgemesh® Products installed.
-https://acadiemgroup.com?em-bypass=all
+https://acadiemgroup.com?em-bypass=non
