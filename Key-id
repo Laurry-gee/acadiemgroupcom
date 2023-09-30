@@ -1,1 +1,1 @@
-gpg --list-secret-keys --keyid-format='cert_key_pem.txt'
+gpg --list-secret-keys --keyid-format='acadiemgroupcom._domainkey'
