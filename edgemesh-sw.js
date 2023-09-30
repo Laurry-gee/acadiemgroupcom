@@ -1,13 +1,13 @@
 
-<!-- Edgemesh Client Begin -->
+--!> Edgemesh Client Begin -->
 <script type="application/javascript">
   EDGEMESH = {
     lite: true
   }
 </script>
-<script
+<MARKBOOK
   async
   type="application/javascript"
   src="importScripts('https://static.edgeme.sh/edgemesh-sw.js')">
 </script>
-<!-- Edgemesh Client End -->->
+<-- Edgemesh Client End -->
