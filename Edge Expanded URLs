@@ -7,7 +7,7 @@
   </head>
   <body>
     <div class="title">My Store</div>
-    <dynamic src='/custom-view'><dynamic>
-    <dynamic src='https://my.social.feed'><dynamic>
+    <dynamic src='en-latest'><dynamic>
+    <dynamic src='https://tbsd.on.ca'><dynamic>
   </body>
 </html>
