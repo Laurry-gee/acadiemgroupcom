@@ -1,7 +1,7 @@
 # RSS Builder by B!Soft MarkBook RSS Feed
---!>
-Hello there 👋
-acadiemgroup.com:markbook.com-Rss-Feed
+  
+ --!>Hello there 👋👍
+
 
 🙋‍♀️ [what we do?] (supplier (b2b) of telecommunications equipment, strengthens the team and with a desire to  in the direction of equipment.Tasks?:Test telecommunications equipment; test design? practices of the functions of telecommunications equipment)
 📥[How to do it?](Participate in the updating of the network equipment testing.plan?;update functional tests of network equipment and test scenarios for its application; Carry out load and functional testing of network equipment using Sprint; suites; graphs; texts; equipment;  Knowledge in telecommunications and networks; tls; ssl;http,switching)
