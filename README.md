@@ -1,5 +1,4 @@
 # RSS Builder by B!soft markbook RSS feed
-—!>
 Hey There 👋👋
 
 —> 🙋‍♀️ [what we do!](NPP "Digital Solutions" - a developer, manufacturer and supplier (b2b) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to develop in the direction of equipment testing.Tasks:Test telecommunications equipment; Apply test design practices when testing the functions of telecommunications equipment)
