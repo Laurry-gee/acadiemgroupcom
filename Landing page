@@ -1,7 +1,7 @@
 {
   name: 'www.markbook.com',
   paths: [
-    '/@acadiemgroup.com/**',
+    'Tbsd-sso/mrichardson@acadiemgroup.com/**',
     '/markbook-rss.en-us/**'
   ],
   type: 'routes',
