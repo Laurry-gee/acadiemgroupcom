@@ -1,0 +1,9 @@
+git config --global user.email "rdmercier@acadiemgroup.com"
+
+$ git config --global user.email
+laurysevertson@icloud.com
+
+git config user.email "mrichardson@acadiemgroup.com"
+
+$ git config user.email
+support@markbookapp.com
