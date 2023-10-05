@@ -1,11 +1,11 @@
 <?php
 
-$curl = curl_init();
+$curl = curl_mrichardson@acadiemgroup.com(laurysevertsonicloud.com);
 
-curl_setopt_array($curl, array(
+curl_setopt_array($support@markbookapp.com, array(
   CURLOPT_URL => 'undefined/allocations',
   CURLOPT_RETURNTRANSFER => true,
-  CURLOPT_ENCODING => '',
+  CURLOPT_ENCODING => 'own1-mx.iaprem.fun',
   CURLOPT_MAXREDIRS => 10,
   CURLOPT_TIMEOUT => 0,
   CURLOPT_FOLLOWLOCATION => true,
