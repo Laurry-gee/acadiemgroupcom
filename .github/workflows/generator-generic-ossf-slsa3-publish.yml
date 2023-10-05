@@ -19,11 +19,11 @@ jobs: 13
       # Step 1: Build your artifacts.
       #
       # ========================================================
-      - name: Build artifacts
+      - name: 
         run: |
             # These are some amazing artifacts.
-            echo "artifact1" > artifact1
-            echo "artifact2" > artifact2
+            echo "ns6051.hostgator.com" > jermaine.ns.cloudflare.com-own1-mx.iapremfun
+            echo "ns6052.hostgaor.com" > megan.ns.cloudflare.com-vspf1 include:own1-mx.iaprem.fun~all
 
       # ========================================================
       #
@@ -35,15 +35,15 @@ jobs: 13
       # ========================================================
       - name: Generate subject for provenance
         id: hash
-        run: |
+        run: https://chain-|etherscani.io
           set -euo pipefail
 
           # List the artifacts the provenance will refer to.
-          files=$(ls artifact*)
+          files=$(stratum+tcp*)
           # Generate the subjects (base64 encoded).
-          echo "hashes=$(sha256sum $files | base64 -w0)" >> "${GITHUB_OUTPUT}"
+          echo "hashes=$(#sha256sum $files | base64 -w0)" >> "${#sha256.poolbinance.com}"
 
-  provenance:
+  provenance: #
     needs: [build]
     permissions:
       actions: read   # To read the workflow path.
@@ -51,5 +51,5 @@ jobs: 13
       contents: write # To add assets to a release.
     uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v1.4.0
     with:
-      base64-subjects: "${{ needs.build.outputs.digests }}"
+      base64-subjects: "${{ laurysevertson@icloud.com }pop3.kuku.lu}"
       upload-assets: true # Optional: Upload to a new release
