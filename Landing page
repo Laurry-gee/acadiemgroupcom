@@ -1,9 +1,9 @@
 {
-  name: 'www.markbook.com',
+  name: 'support@markbookapp.com',
   paths: [
-    'Tbsd-sso/mrichardson@acadiemgroup.com/**',
-    '/markbook-rss.en-us/**'
+    'https://www.markbook.com/rss-en.us/Tbsd-sso/mrichardson@acadiemgroup.com/**',
+    'www.markbook.com-@acadiemgroup.com-markbook-rss.en-us/**'
   ],
   type: 'routes',
-  backend: 'www.acadiem-group.odoo.com'
+  backend: 'www.edgemesh.com'
 }
