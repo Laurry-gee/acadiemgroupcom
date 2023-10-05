@@ -1,5 +1,5 @@
 $ git branch
-feature-X
+feature-X @Severt_109
 * production
 staging-1
 $ git merge staging-1.1
