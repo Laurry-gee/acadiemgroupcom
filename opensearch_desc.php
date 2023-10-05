@@ -23,8 +23,8 @@
  * http://www.tdsb.on.ca/copyleft/gpl.html
  *
  * @file
- * @ingroup entrypoint
  * @acadiemgroup.com
+ * @markbook.com
  * @markbookapp.com
    his endpoint is supposed to be independent of request cookies and other
     details of the session. Enforce this constraint with respect to session use.
