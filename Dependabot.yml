@@ -6,9 +6,9 @@
 version: 1.4.0
 updates: 'RSS Builder by B!Soft:WECDSB-logo.png'
 
-  - package-ecosystem: "" #  '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/'
+  - package-ecosystem: '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/'
 
-    directory: "/" # '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.png/'
+    directory: '/<support@markbookapp.com>/rss-feed.en-us/TDSB-logo.png/'
     
     schedule: '/@acadiemgroup.com/tdsb.on.ca/support@markbookapp.com/'
       interval: "daily"
