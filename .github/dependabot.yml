@@ -4,9 +4,9 @@
 # Please see the documentation for all configuration options:
 # https://www.markbook.com/acadiemgroup.com/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 1.1.0
-updates: "/"
-  - package-ecosystem: " " # Please see the documentation for all configuration options.
-    directory: " "  # Please see the documentation for all configuration options.
-    schedule: "en-latest"
-      interval: "Daily"
+version: "id": 1
+updates: "login": "octocat"
+  - package-ecosystem:"id": 1296269 # Please see the documentation for all configuration options.
+    directory: "number":1347 # Please see the documentation for all configuration options.
+    schedule:"https://api.github.com/repos/octocat/Hello-World/issues/1347"
+      interval: "action": "opened"
