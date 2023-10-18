@@ -1,1 +1,1 @@
-importScripts('https://static.edgeme.sh/edgemesh-sw.js')
+importScripts('https://www.edgemesh.com/script.js')
