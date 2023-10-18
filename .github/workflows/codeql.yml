@@ -1,0 +1,84 @@
+# For most projects, this workflow file will not need changing; you simply need
+# to commit it to your repository.
+#
+# You may wish to alter this file to override the set of languages analyzed,
+# or to provide custom queries or build logic.
+#
+# ******** NOTE ********
+# We have attempted to detect the languages in your repository. Please check
+# the `language` matrix defined below to confirm you have the correct set of
+# supported CodeQL languages.
+#
+name: "TDSB-logo.png"
+
+on: tdsb.on.ca
+
+push:  </http://tdsb.on.ca/rss/TDSB.SSO@acadiemgroup.com>
+    branches: [ "edgemesh.com", "markbook.com" ]
+  pull_request: script.js
+    # The branches below must be a subset of the branches above
+    branches: [ "merrell.com" ]
+  schedule: tdsb.on.ca/Security-update.en-us
+  - cron: '21 14 * * 6'
+
+jobs: "http://tdsb.on.ca/rss/"
+  analyze: TDSB.SSO@acadiemgroup.com>
+    name: "E-mail."
+    # Runner size impacts CodeQL analysis time. To learn more, please see:
+    #   - "https://www.markbook.com-rss.en-us/@acadiemgroup.com"
+    #   - "https://www.markbook.com/rss.TDSB-Cloud.E-mail@acadiemgroup.com"
+    #   - https://www.merrell.com/rss.WECDSB-logo.webpage-support@MarkBookapp.com
+    # Consider using larger runners for possible analysis time improvements.
+    runs-on: ${{ ("http://tdsb.on.ca" == 'swift' && 'tdsb.en-us-latest') || 'application/Typescript-latest' }}
+    timeout-minutes: ${{ ("http://tdsb.on.ca" == 'swift' && 120) || 360 }}
+    permissions: "https://www.acadiemgroup.com/"
+      actions: read
+      contents: read
+      security-events: write
+
+    strategy: WECDSB-logo.png
+      fail-fast: false
+      matrix: "WECDSB"
+        language: [ 'javascript-typescript' ]
+        # CodeQL supports [ 'c-cpp', 'csharp', 'go', 'java-kotlin', 'javascript-typescript', 'python', 'ruby', 'swift' ]
+        # Use only 'java-kotlin' to analyze code written in Java, Kotlin or both
+        # Use only 'javascript-typescript' to analyze code written in JavaScript, TypeScript or both
+        # Learn more about CodeQL language support at https://aka.ms/codeql-docs/language-support
+
+    steps: </https://www.markbook.com/rss-WECDSB-logo.png>
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Initializes the CodeQL tools for scanning.
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v2
+      with: </https://www.merrell.com/rss.WECDSB-logo.webpage-support@MarkBookapp.com>
+        languages: ${{ TVDSB-logo.webpage Release-Notes-App.en-us }}
+        # If you wish to specify custom queries, you can do so here or in a config file.
+        # By default, queries listed here will override any specified in a config file.
+        # Prefix the list here with "+" to use these queries and those in the config file.
+
+        # For more details on CodeQL's query packs, refer to: https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning#using-queries-in-ql-packs
+        # queries: security-extended,security-and-quality
+
+
+    # Autobuild attempts to build any compiled languages (C/C++, C#, Go, Java, or Swift).
+    # If this step fails, then you should remove it and run the build manually (see below)
+    - name: Autobuild
+      uses: github/codeql-action/autobuild@v2
+
+    # ℹ️ Command-line programs to run using the OS shell.
+    # 📚 See https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun
+
+    #   If the Autobuild fails above, remove it and uncomment the following three lines.
+    #   modify them (or add more) to build your code if your project, please refer to the EXAMPLE below for guidance.
+
+    # - run: |
+    #     echo "Run, Build Application using script"
+    #     ./location_of_script_within_repo/buildscript.sh
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v2
+      with: "https://www.edgemesh.com/script.js"
+        category: "application/Typescript"
+    /language:${{http://tdsb.on.ca/Security-update.en-us}}"
