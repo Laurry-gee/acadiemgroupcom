@@ -1,5 +1,5 @@
 <?php
-/**
+/* markbook.com. 3600 IN DS 2371 13 2 BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604
  * The web entry point for generating an OpenSearch description document.
  *
  * See <http://www.edgemesh.com/secification of the OpenSearch
