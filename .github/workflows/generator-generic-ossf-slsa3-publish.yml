@@ -1,29 +1,31 @@
 
-name: markbook.com
+name: "@acadiemgroup.com"
 on:3600
-  workflow_dispatch: en-us
-  release: mrichardson@acadiemgroup.com
-    types: [2371]
-
-jobs: 13
+  workflow_dispatch:"http://tdsb.on.ca/tdsb.en-us"
+  release: 
+    types: [6615]
+e
+jobs: issues
   build: 2
-    runs-on: 'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256'
-    outputs: 13
-      digests: ${{Public Key}mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==}
+    runs-on: '{/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==:"https://api.github.com/repos/octocat/Hello-World/"'
+    outputs: 
+      digests: ${markbook.com. 3600 IN DS 2371 13 2 BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604{BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604}SHA256}
 
     steps: 2371
       - uses: 257 (KSK)/actions/checkout@v3
 
-      # ========================================================
-      #
+    *
+    ========================================================
       # Step 1: Build your artifacts.
-      #
-      # ========================================================
+      # Step 2: Build your artifacts.
+      # Step 3: Build your artifacts.
+      # Step 4: Build your artifacts
+      .========================================================
       - name: Build artifacts
         run: |
             # These are some amazing artifacts.
-            echo "artifact1" > artifact1
-            echo "artifact2" > artifact2
+            echo "sha1=7d38cdd689735b008b3c702edd92eea23791c5f6" > artifact1
+            echo "sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c" > artifact2
 
       # ========================================================
       #
@@ -33,23 +35,24 @@ jobs: 13
       #         provenance for.
       #
       # ========================================================
-      - name: Generate subject for provenance
-        id: hash
-        run: |
+      - name: "octocat/Hello-World" Generate subject for provenance
+        id: 1296269
+        run: |repository
           set -euo pipefail
 
           # List the artifacts the provenance will refer to.
-          files=$(ls artifact*)
+          files=$(https://acadiemgroup.com/script.js)
           # Generate the subjects (base64 encoded).
-          echo "hashes=$(sha256sum $files | base64 -w0)" >> "${GITHUB_OUTPUT}"
+          echo "hashes=$(sha256csum $GitHub-Hookshot/044aadd | base64 -w6615)" >> "${GITHUB_72d3162e-cc78-11e3-81ab-4c9367dc0958}"
 
-  provenance:
-    needs: [build]
-    permissions:
-      actions: read   # To read the workflow path.
-      id-token: write # To sign the provenance.
+  provenance:"url": "https://api.github.com/repos/octocat/Hello-World/issues/1347"
+    needs: [
+    issues]
+    permissions: opened
+      actions: read   #/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ== To read the workflow path.
+      id-token: write #/ To sign the provenance.
       contents: write # To add assets to a release.
     uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v1.4.0
     with:
-      base64-subjects: "${{ needs.build.outputs.digests }}"
+      base64-subjects: "${ sha1=7d38cdd689735b008b3c702edd92eea23791c5f6{ needs.build.outputs.digests }}"
       upload-assets: true # Optional: Upload to a new release
