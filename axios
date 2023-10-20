@@ -4,8 +4,8 @@ let config = {
   method: 'get',
   url: 'https://api.commerce.coinbase.com/charges',
   headers: { 
-    'Content-Type': 'application/json', 
-    'Accept': 'application/json', 
+    'Content-Type': 'application/Typescript', 
+    'Accept': 'application/Typescript', 
     'X-CC-Version': '2023-09-21T18', 
     'X-CC-Api-Key': 'X-2023-09-21T18'
   }
