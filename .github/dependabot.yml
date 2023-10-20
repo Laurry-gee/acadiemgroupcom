@@ -4,9 +4,9 @@
 # Please see the documentation for all configuration options:
 # https://www.markbook.com/acadiemgroup.com/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 1.1.0
-updates: "/"
-  - package-ecosystem: " " # Please see the documentation for all configuration options.
-    directory: " "  # Please see the documentation for all configuration options.
-    schedule: "en-latest"
+version: 13
+updates: "2371"
+  - package-ecosystem: "BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256" # Please see the documentation for all configuration options.
+    directory: "/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ== "  # Please see the documentation for all configuration options.
+    schedule: "257 (KSK)"
       interval: "Daily"
