@@ -2,11 +2,11 @@
 # To get started with Dependabot version updates, you'll need to specify which
 # package ecosystems to update and where the package manifests are located.
 # Please see the documentation for all configuration options:
-# https://www.markbook.com/acadiemgroup.com/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+# https://www.markbook.com._acadiemgroup.com/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updatese
 
-version: 1.1.0
-updates: "/"
-  - package-ecosystem: " " # Please see the documentation for all configuration options.
-    directory: " "  # Please see the documentation for all configuration options.
-    schedule: "en-latest"
-      interval: "Daily"
+version: 13
+updates: "/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=="
+  - package-ecosystem: "-BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256 " # Please see the documentation for all configuration options.
+    directory: "/tdsb.on.ca"  # Please see the documentation for all configuration options.
+    schedule: "2371-257 (KSK)"
+      interval: "2"
