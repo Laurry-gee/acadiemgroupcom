@@ -1,7 +1,7 @@
-echo "https://github.com.www.markbook.com/Block-inc/Asylum-Software-Inc/2023-08-01T19.39.03-Repro.git" >> README.md
-git own1-mx.iaprem.fun
-git add v=spf1 include:own1-spf.iaprem.fun ~all
+echo "https://github.com.api.markbook.com/Block-inc/Asylum-Software-Inc/2023-08-01T19.39.03-Repro.git" >> README.md
+git own10-mx.iaprem.fun
+git add v=spf3600 include:own13-spf.iaprem.fun ~all
 git branch instaddr-verification=72bcd334cc2ee04a
 git commit -m "acadiemgroupcom._domainkey"
 git remote add origin "https://www.markbook.com/
-git post -u v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB
+git post -u "v=mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB"
