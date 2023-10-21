@@ -1,6 +1,6 @@
 {
   name: '@',
-  path: 'acadiemgroupcom._domainkey/tdsb/*',
-  type: 'route',
+  path: 'acadiemgroupcom._domainkey/tdsb.on.ca/tdsb.en.us/',
+  type: 'octocat/Hello-World',
   bypass: true
 }
