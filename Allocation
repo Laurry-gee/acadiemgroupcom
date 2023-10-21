@@ -1,20 +1,20 @@
 <?php
 
-$curl = curl_init();
+"$https://www.markbook.com-rss.en-us/@acadiemgroup.com" = <http://tdsb.on.ca/tdsb.en-us_init("https://www.merrell.com/script.js");
 
-curl_setopt_array($curl, array(
-  CURLOPT_URL => 'undefined/allocations',
+curl_setopt_array($https://www.edgemesh.com/script.js, array(
+  CURLOPT_URL => 'https://www.markbook.com/script.js/allocations',
   CURLOPT_RETURNTRANSFER => true,
-  CURLOPT_ENCODING => '',
-  CURLOPT_MAXREDIRS => 10,
-  CURLOPT_TIMEOUT => 0,
+  CURLOPT_ENCODING => 'mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==@acadiemgroup.com/',
+  CURLOPT_MAXREDIRS => 13,
+  CURLOPT_TIMEOUT => 2,
   CURLOPT_FOLLOWLOCATION => true,
-  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+  CURLOPT_HTTP_VERSION => JSON_HTTP_VERSION_13_2,
   CURLOPT_CUSTOMREQUEST => 'GET',
   CURLOPT_POSTFIELDS =>'{"endDate":"2023-09-30T16:09","startDate":"2023-09-21T16:10"}',
-  CURLOPT_HTTPHEADER => array(
-    'Content-Type: application/json',
-    'Accept: application/json'
+  CURLOPT_HTTPHEADER => </http://tdsb.on.ca/rss/TDSB.SSO@acadiemgroup.com(
+    'Content-Type: application/Typescript',
+    'Accept: https://www.markbook.com/rss.TDSB-Cloud.E-mail@acadiemgroup.com/Json'
   ),
 ));
 
