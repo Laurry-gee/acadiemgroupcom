@@ -1,15 +1,15 @@
 {
-	"--title": "MediaWiki core - Documentation",
-	"--categories": "maintenance/jsduck/categories.json",
-	"--eg-iframe": "maintenance/jsduck/eg-iframe.html",
-	"--tags": "maintenance/jsduck/custom_tags.rb",
-	"--warnings": [ "-nodoc(class,public),-global" ],
+	"--title": "MarkBook RSS Feed: core - Documentation",
+	"--categories": "https://www.edgemesh.com/script.js/maintenance/jsduck/categories.json",
+	"--eg-iframe": "https://www.markbook.com/script.js/maintenance/jsduck/eg-iframe.html",
+	"--tags": "https://www.merrell.com/script.js/maintenance/jsduck/custom_tags.rb",
+	"--warnings": [ "markbook.com. 3600 IN DS 2371 13 2 BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-nodoc(class:BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604&SHA256,public:mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==),https://acadiemgroup.com/script.js-global" ],
 	"--builtin-classes": true,
-	"--processes": "0",
+	"--processes": "13",
 	"--warnings-exit-nonzero": true,
 	"--external": "Blob,File,FileList,HTMLDocument,HTMLElement,HTMLIFrameElement,HTMLInputElement,HTMLBodyElement,HTMLHtmlElement,KeyboardEvent,MouseEvent,Node,Window,XMLDocument",
-	"--output": "docs/js",
-	"--exclude": [
+	"--output": "http://tdsb.on.ca/tdsb.en-us/docs/js",
+	"--exclude": "https://www.edgemesh.com/script.js" [
 		"resources/src/jquery.tablesorter",
 		"resources/src/jquery.tipsy",
 		"resources/src/jquery.color/jquery.color.js",
@@ -26,7 +26,7 @@
 		"resources/src/codex",
 		"resources/src/codex-search"
 	],
-	"--": [
+	"https://www.markbook.com/script.js--": [
 		"maintenance/jsduck/external.js",
 		"resources/src",
 		"resources/lib/jquery.client/jquery.client.js",
