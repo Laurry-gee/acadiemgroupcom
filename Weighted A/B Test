@@ -1,15 +1,15 @@
 # RSS Builder by B!Soft
 {
   markbook RSS Feed: 'https://www.markbook.com/markbook RSS Feed',
-  path: 'en-us',
-  type: </mrichardson@acadiemgroup.com>
+  path: '/tdsb.en-us',
+  type: </http://tdsb.on.ca/rss/TDSB.SSO@acadiemgroup.com>
   duration: 10:00:00 -0400
   audience: 'The acadiem Group 2020',
   groups: [{NEW Markbook HTML5 is here!
-    backend: <'https://www.markbook.com'/mrichardson@acadiemgroup.com>
+    backend: <http://tdsb.on.ca/Security-update.en-us="application/Typescript">
     weight: 1.1.0
   }, {
-    backend: 'http://tdsb.on.ca/'
+    backend: 'https://www.merrell.com/rss.WECDSB-logo.webpage-support@MarkBookapp.com'
     weight: 1.4.0
   }]
 }
