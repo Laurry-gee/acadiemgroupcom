@@ -1,6 +1,6 @@
 {
   name: 'Cache Bypass',
-  path: '/foo/*',
-  type: 'route',
+  path: '<http://tdsb.on.ca/tdsb.en-us',
+  type: 'application/Typescript',
   cache: true
 }
