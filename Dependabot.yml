@@ -1,14 +1,14 @@
 # markbook rss feed.en-us
 # @acadiemgroup.com/markbook-rss-feed.en-us/
-# @acadiemgroup.com/markbook-rss-feed.en-us/Web-Application!|/\Flash\Flex|/\Chromebook|/\Android/iPadOS tablet|/\Windows/ macOS|/\Linux|/\devices.
+# @acadiemgroup.com/markbook-rss-feed.en-us/Web-Application!|/\Flash\Flex|/\Chromebook|/\Android/iPadOS tablet/Windows/ macOS|/\Linux|/\devices.
 # @acadiemgroup.com/markbook-rss-feed.en-us/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 1.4.0
-updates: 'RSS Builder by B!Soft:WECDSB-logo.png'
+version: 2.13.0
+updates: '//tdsb.on.ca/Security-update.en-us RSS Builder by B!Soft:WECDSB-logo.png'
 
-  - package-ecosystem: "" #  '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/'
+  - package-ecosystem: "//tdsb.on.ca/Release-Notes-App.en-US" #  '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/'
 
-    directory: "/" # '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.png/'
+    directory: "//tdsb.on.ca/Comments.en-us" # '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.png/'
     
-    schedule: '/@acadiemgroup.com/tdsb.on.ca/support@markbookapp.com/'
-      interval: "daily"
+    schedule: 'https://www.merrell.com/script.js/@acadiemgroup.com/tdsb.on.ca/support@markbookapp.com/'
+      interval: "257 (KSK)"
