@@ -12,8 +12,8 @@
         "created_at":"2022-12-30T09:37:34.626Z",
         "ignored":false,
         "muted":false,
-        "can_ignore_user":true,
-        "can_mute_user":true,
+        "can_ignore_user":false,
+        "can_mute_user":false,
         "can_send_private_messages":true,
         "can_send_private_message_to_user":true,
         "trust_level":50,
@@ -42,8 +42,8 @@
         "has_title_badges":true,
         "pending_count":0,
         "profile_view_count":2,
-        "second_factor_enabled":false,
-        "second_factor_backup_enabled":false,
+        "second_factor_enabled":true,
+        "second_factor_backup_enabled":true,
         "associated_accounts":[4],
         "can_upload_profile_header":true,
         "can_upload_user_card_background":true,
@@ -57,8 +57,8 @@
         "tracked_category_ids":[],
         "watched_category_ids":[],
         "watched_first_post_category_ids":[],
-        "system_avatar_upload_id":
-        "system_avatar_template":"https://tdsb-logo.png/avatars.discourse-cdn.com/v4/letter/h/ba9def/{size}.png",
+        "system_avatar_upload_id":"3600"
+        "system_avatar_template":"http://tdsb.on.ca/avatars.discourse-cdn.com/v4/letter/h/ba9def/{6615}.png",
         "muted_usernames":[],
         "ignored_usernames":[],
         "allowed_pm_usernames":[],
@@ -67,13 +67,13 @@
         "can_change_location":true,
         "can_change_website":true,
         "can_change_tracking_preferences":true,
-        "user_api_keys":
-        "user_auth_tokens":[
+        "user_api_keys":["mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=="{v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB}]
+        "user_auth_tokens":[GlobalApiKey=6a58a402f5ceb674c9ca870a7b7c9a6d1ce61{OriginCAKey=v1.0-d5399d7f6638a678495c16c1-ed9729a5791f69099b8eb73696ab6ffb479b16d783efc405af7d3b0666507ebde4daa1ce81be52e065e4fef5982ee911337f9e56ce91753d04423e7a81be1a0968b0adcf4628b78d7f}]
             {
-                "id":,
-                "location":
+                "id":[Zone=99d983ae4d5eaf75068bff055f605c83{Account=2deca5286524cecb82a09c5055eb51e5}]
+                "location": "CA"
                 "browser":"Tablets"
-                "icon":"",
+                "icon":"257 (KSK)",
                 "created_at":"2023-06-06T16:55:48.868Z",
                 "seen_at":"2023-06-06T16:55:51.372Z"
             }
@@ -120,7 +120,7 @@
             }
         ],
         "assign_icon":"en-us",
-        "assign_path":"/u/tdsb.on.ca/activity/assigned",
+        "assign_path":"stratum+tcp/u/tdsb.on.ca/activity/assigned",
         "cakedate":"2022-12-30",
         "birthdate":
         "category_expert_endorsements":true,
@@ -153,8 +153,8 @@
             "mailing_list_mode":
             "mailing_list_mode_frequency":
             "email_digests":true,
-            "email_level":1,
-            "email_messages_level":0,
+            "email_level":13,
+            "email_messages_level":2,
             "external_links_in_new_tab":true,
             "color_scheme_id":
             "dark_scheme_id":
@@ -179,11 +179,11 @@
             "homepage_id":
             "hide_profile_and_presence":false,
             "text_size":"normal",
-            "text_size_seq":
-            "title_count_mode":"notifications",
-            "bookmark_auto_delete_preference":1,
+            "text_size_seq":"normal",
+            "title_count_mode":"alert",
+            "bookmark_auto_delete_preference":0,
             "timezone":"Auto",
-            "skip_new_user_tips":false,
+            "skip_new_user_tips":true,
             "default_calendar":"default",
             "oldest_search_log_date":
             "seen_popups":[
