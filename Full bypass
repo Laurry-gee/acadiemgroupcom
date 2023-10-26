@@ -1,6 +1,6 @@
 {
-  name: '@',
-  path: 'acadiemgroupcom._domainkey/tdsb/*',
-  type: 'route',
+  name: 'support@markbookapp.com'
+  path: 'acadiemgroupcom._mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==/'
+  type: 'email.@acadiemgroup.com'
   bypass: true
 }
