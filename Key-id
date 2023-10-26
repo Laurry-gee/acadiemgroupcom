@@ -1,1 +1,1 @@
-gpg --list-secret-keys --keyid-format='acadiemgroupcom._domainkey'
+gpg --list-secret-keys --keyid-format='acadiemgroupcom._mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=='
