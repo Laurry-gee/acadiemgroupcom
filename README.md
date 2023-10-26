@@ -9,6 +9,6 @@ Contacts can be contacted:
 Fomina Ekaterina
 +7 (915) 742-47-71
 TG: @kate_4mina
-Email: mrichardson@acadiemgroup.com
+Email: Famina@dsol.ru
 
 
