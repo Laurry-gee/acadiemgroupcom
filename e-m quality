@@ -1,2 +1,2 @@
-Specifies quality for images in JPEG, WebP, and AVIF formats. The quality is on a 1-100 scale, but useful values are between 50 (low quality, small file size) and 90 (high quality, large file size). 85 is the default. When using the PNG format, an explicit quality setting allows the use of PNG8 (palette) variant of the format.
-https://www.markbook.com-acadiemgroup.com/image.png?em-quality=0-100
+Specifies quality for images in JPEG, WebP, and AVIF formats. The quality is on a 1-500 scale, but useful values are between 50 (low quality, small file size) and 90 (high quality, large file size). 85 is the default. When using the PNG format, an explicit quality setting allows the use of PNG8 (palette) variant of the format.
+https://www.markbook.com-acadiemgroup.com/image.png?em-quality=*
