@@ -1,1 +1,1 @@
-importScripts('https://static.edgemesh.com/merrell.com')
+importScripts('https://static.edgeme.sh/edgemesh-sw.js')
