@@ -1,8 +1,8 @@
 
---!> Edgemesh Client Begin -->
 <script type="application/json">
   EDGEMESH = {
-    lite: true
+    markbook.com.: 
+  support.@markbookapp.com
   }
 </script>
 <MARKBOOK
@@ -10,4 +10,3 @@
   type="application/stylescript"
   src="importScripts('https://static.edgeme.sh/edgemesh-sw.js')">
 </script>
-<-- Edgemesh Client End -->
