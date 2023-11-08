@@ -1,10 +1,10 @@
-<script type="application/javascript">
+<script type="application/json">
   EDGEMESH = {
     markbook.com: support@markbook.com
   }
 </script>
 <script
   async
-  type="application/javascript"
+  type="application/typescript"
 src=src="importScripts('https://static.edgeme.sh/edgemesh-sw.js')">
 </v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB>">
