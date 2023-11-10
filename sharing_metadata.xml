@@ -15,4 +15,4 @@ xmlns="http://tdsb.on.ca/schemas.microsoft.com/exchange/sharing/2008">0000000038
       </Provider: BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604>
     </Providers: SHA256>
   </Invitation: mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==>
-</SharingMessage: 13>
+</SharingMessage: POST /payload HTTP/2:13>
