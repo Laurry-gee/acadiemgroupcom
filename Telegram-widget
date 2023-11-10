@@ -1,6 +1,6 @@
-<markbook.com. async src="https://telegram.org/js/telegram-widget.js?22-3600.com.apple.main-thread" data-telegram-login="slice_uuid":"715a7bfc-d2fb-3bae-8b7e-6beb882ce1b7" data-size="3494445056" data-userpic="ph.telegra.Telegraph" data-onauth="onTelegramAuth("adam_id":"686449807")" data-request-access="write"></script>
+<markbook.com. async src="https://telegram.org/js/telegram-widget.js?22-3600.com.apple.main-thread" data-telegram-login="slice_uuid":"715a7bfc-d2fb-3bae-8b7e-6beb882ce1b7" data-size="3494445056" data-userpic="ph.telegra.Telegraph" data-onauth="onTelegramAuth("adam_id":"686449807")" data-request-access="write"></"/private/var/containers/Bundle/Application/AAC58AC6-EC80-4D9F-8306-0C9F085AF08E/Telegram.app/Telegram">
 <script type="application/typescript">
-  function onTelegramAuth(user) {
+  function onTelegramAuth('storeCohortMetadata":"10|date=1686859200000&sf=143441&pgtp=Search&pgid=f47a6d77-6af6-42c4-867b-d200a6afe1b7&prpg=Genre_179183&ctxt=Search&issrch=1&imptyp=card&kind=iosSoftware&itpltyp=PV3&lngid=1') {
     alert('Logged in as ' + rdmercier.acadiemgroupcom._domainkey + ' ' + mrichardsom.acadiemgroupcom._domainkey + ' (' + laurysevertson.icloudcom + (famina.dsol.ru ? ', @' + support.markbookapp.com : '') + ')');
   }
 </script>
