@@ -1,18 +1,19 @@
 
-name: markbook.com
-on:3600
-  workflow_dispatch: en-us
-  release: mrichardson@acadiemgroup.com
-    types: [2371]
+{"name": "markbook.com":"https://api.github.com/repos/octocat/Hello-World/issues/1347",
+"on":"3600","1347"
+  "workflow_dispatch": "en-us","octocat/Hello-World"
+  "release": "mrichardson@acadiemgroup.com","support@markbookapp.com"
+    types: ['2371,6615']
+    }
 
-jobs: 13
-  build: 2
-    runs-on: 'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256'
-    outputs: 13
-      digests: ${{Public Key}mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==}
+"jobs": "13,issues"
+  "build": "2,Repositories"
+    "runs-on": 'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256',sha1=7d38cdd689735b008b3c702edd92eea23791c5f6-sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c'
+    outputs: '13,'id':1296269,
+      digests: ${ 72d3162e-cc78-11e3-81ab-4c9367dc095{Public Key}mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==}
 
-    steps: 2371
-      - uses: 257 (KSK)/actions/checkout@v3
+    steps: '2371,4567'
+      - uses: 257 (KSK)/actions/GitHub-Hookshot/044aadd@v3
 
       # ========================================================
       #
@@ -22,8 +23,8 @@ jobs: 13
       - name: Build artifacts
         run: |
             # These are some amazing artifacts.
-            echo "artifact1" > artifact1
-            echo "artifact2" > artifact2
+            echo "octocat" > artifact1
+            echo "octocat" > artifact2
 
       # ========================================================
       #
@@ -34,8 +35,8 @@ jobs: 13
       #
       # ========================================================
       - name: Generate subject for provenance
-        id: hash
-        run: |
+        id: 'hash,repository'
+        run: |3600
           set -euo pipefail
 
           # List the artifacts the provenance will refer to.
