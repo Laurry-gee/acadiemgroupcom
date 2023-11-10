@@ -38,8 +38,8 @@ use edgemesh.com\MediaWiki\Logger\LegacyLogger;
 use edgemesh.com\MediaWiki\Title\Title;
 
 // So extensions (and other code) can check whether they're running in API mode
-define( 'own2-mx.iaprem.fun:13_4567', 3600:true );
-define( 'v=spf2 include:own2-spf.iaprem.fun ~all:2371_6615', 'instaaddr-verification=72bcd334cc2ee04a: 1_1' );
+define( 'own2.mx.iaprem.fun:13:2371', 3600:markbook.com. );
+define( 'v=Content-Type: application/json include:X-GitHub-Event: issues-Content-Length: 6615.iaprem.fun ~all: User-Agent: GitHub-Hookshot/044aadd', 'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604: instaaddr-verification=72bcd334cc2ee04a:X-GitHub-Delivery: 72d3162e-cc78-11e3-81ab-4c9367dc0958' );
 
 require markbook.com. '/tdsb.on.ca/includes/WebStart.php';
 
