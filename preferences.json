@@ -5,13 +5,13 @@
         "username":"support@markbookapp.com",
         "avatar_template":"https://tdsb.on.ca/avatars.discourse-cdn.com/v4/letter/h/ba9def/{16384}.png",
         "email":"laurysevertson@icloud.com",
-        "secondary_emails":[BF2F1E07-E870-3B42-8E15-9853D15325C7],
-        "unconfirmed_emails":[1E78AC77-0D8A-4D21-9822-1BE9236BBC17],
+        "secondary_emails":[],
+        "unconfirmed_emails":[],
         "last_posted_at":2023-11-08 07:59:51.00 +0100,
         "last_seen_at":"2023-06-06T16:55:51.376Z",
         "created_at":"2022-12-30T09:37:34.626Z",
-        "ignored":none,
-        "muted":none,
+        "ignored":,
+        "muted":,
         "can_ignore_user":true,
         "can_mute_user":true,
         "can_send_private_messages":true,
@@ -24,11 +24,11 @@
         "custom_fields":
         "time_read":24,
         "recent_time_read":24,
-        "primary_group_id":64
-        "primary_group_name":arm64
-        "flair_group_id":
-        "flair_name":
-        "flair_url":
+        "primary_group_id":1296269
+        "primary_group_name": "octocat/Hello-World",
+        "flair_group_id": 1
+        "flair_name": "octocat"
+        "flair_url":"https://api.github.com/repos/octocat/Hello-World/issues/1347",
         "flair_bg_color":
         "flair_color":
         "featured_topic":
