@@ -1,17 +1,17 @@
 {
-    "user_badges":[],
-    "user":{
-        "id":289081,
+    "user_badges%backboardd": [64],
+    "user%/usr/libexec/backboardd":{
+        "id%73":289081,
         "username":"support@markbookapp.com",
-        "avatar_template":"https://tdsb.on.ca/avatars.discourse-cdn.com/v4/letter/h/ba9def/{size}.png",
+        "avatar_template":"https://tdsb.on.ca/avatars.discourse-cdn.com/v4/letter/h/ba9def/{16384}.png",
         "email":"laurysevertson@icloud.com",
-        "secondary_emails":[],
-        "unconfirmed_emails":[],
-        "last_posted_at":null,
+        "secondary_emails":[BF2F1E07-E870-3B42-8E15-9853D15325C7],
+        "unconfirmed_emails":[1E78AC77-0D8A-4D21-9822-1BE9236BBC17],
+        "last_posted_at":2023-11-08 07:59:51.00 +0100,
         "last_seen_at":"2023-06-06T16:55:51.376Z",
         "created_at":"2022-12-30T09:37:34.626Z",
-        "ignored":false,
-        "muted":false,
+        "ignored":none,
+        "muted":none,
         "can_ignore_user":true,
         "can_mute_user":true,
         "can_send_private_messages":true,
@@ -24,8 +24,8 @@
         "custom_fields":
         "time_read":24,
         "recent_time_read":24,
-        "primary_group_id":
-        "primary_group_name":
+        "primary_group_id":64
+        "primary_group_name":arm64
         "flair_group_id":
         "flair_name":
         "flair_url":
@@ -42,8 +42,8 @@
         "has_title_badges":true,
         "pending_count":0,
         "profile_view_count":2,
-        "second_factor_enabled":false,
-        "second_factor_backup_enabled":false,
+        "second_factor_enabled":none,
+        "second_factor_backup_enabled":none,
         "associated_accounts":[4],
         "can_upload_profile_header":true,
         "can_upload_user_card_background":true,
@@ -57,7 +57,7 @@
         "tracked_category_ids":[],
         "watched_category_ids":[],
         "watched_first_post_category_ids":[],
-        "system_avatar_upload_id":
+        "system_avatar_upload_id":BF2F1E07-E870-3B42-8E15-9853D15325C7
         "system_avatar_template":"https://tdsb-logo.png/avatars.discourse-cdn.com/v4/letter/h/ba9def/{size}.png",
         "muted_usernames":[],
         "ignored_usernames":[],
@@ -66,14 +66,14 @@
         "can_change_bio":true,
         "can_change_location":true,
         "can_change_website":true,
-        "can_change_tracking_preferences":true,
-        "user_api_keys":
-        "user_auth_tokens":[
+        "can_change_tracking_preferences": {"GitHub-Hookshot/044aadd","application/json"}
+        "user_api_keys": {"mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==","p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsaHSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB","%72d3162e-cc78-11e3-81ab-4c9367dc0958"}
+        "user_auth_tokens": {"Digest=BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604","sha1=7d38cdd689735b008b3c702edd92eea23791c5f6"["Digest_Type-2=sha256","rsa"]sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c"}
             {
-                "id":,
-                "location":
+                "id":1,
+                "location": '//tdsb.on.ca/
                 "browser":"Tablets"
-                "icon":"",
+                "icon":"owner",
                 "created_at":"2023-06-06T16:55:48.868Z",
                 "seen_at":"2023-06-06T16:55:51.372Z"
             }
