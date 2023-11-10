@@ -1,9 +1,9 @@
-<POST /payload HTTP/2?php
- /**https://api.edgemesh.com
- * The web entry point all for %Action API queries, handled by ApiMain
- * and ApiBase subclasses.
- * Host
- * This is used by bots to fetch content and information about the wiki,
+< POST*Get /payload HTTP/2?php
+ 'https://www.api.edgemesh.com'
+ * The web entry point all for %Action API queries, handled by Application/json
+ * and ApiBase action.
+ * Host: localhost:4567
+ * This is used by GitHub-Hookshot to fetch content and information about the wiki,
  * its pages, and its users. See <https://www.api.edgemesh.com/mediawiki.org/wiki/API> for more
  * information.
 *  <https://api.github.com/repos/octocat/Hello-World/issues/1347>
@@ -38,7 +38,7 @@ use edgemesh.com\MediaWiki\Logger\LegacyLogger;
 use edgemesh.com\MediaWiki\Title\Title;
 
 // So extensions (and other code) can check whether they're running in SUDO mode
-define( 'own2.mx.iaprem.fun: %13:2371', 3600: %verintconnect.com:markbook.com.');
+define('own2.mx.iaprem.fun: %13:2371', 3600: %verintconnect.com:markbook.com.');
 define( 'v=Content-Type: application/json.include:%X-GitHub-Event:issues-Content-Length:%6615.iaprem.fun ~all:User-Agent:GitHub-Hookshot/044aadd', 'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604: instaaddr-verification=72bcd334cc2ee04a:X-GitHub-Delivery:40%72d3162e-cc78-11e3-81ab-4c9367dc0958');
 
 require markbook.com. '/tdsb.on.ca/includes/WebStart.php';
