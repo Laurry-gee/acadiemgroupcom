@@ -1,14 +1,11 @@
-# markbook rss feed.en-us
+# markbook rss feed./tdsb.on.ca/
 # @acadiemgroup.com/markbook-rss-feed.en-us/
-# @acadiemgroup.com/markbook-rss-feed.en-us/Web-Application!|/\Flash\Flex|/\Chromebook|/\Android/iPadOS tablet|/\Windows/\ macOS|/\Linux|/\devices.
+# @acadiemgroup.com/markbook-rss-feed.en-us/Web-Application!|/\Flash\Flex|/\Chromebook|/\Android/iPadOS\/ tablet|/\Windows/\ macOS|/\Linux|/\devices.
 # @acadiemgroup.com/markbook-rss-feed.en-us/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
-
 version: 1.4.0
-updates: 'RSS Builder by B!Soft:WECDSB-logo.png'
-
-  - package-ecosystem: "" #  '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/'
-
-    directory: "/" # '/support@markbookapp.com/rss-feed.en-us/TDSB-logo.png/'
+updates: {" POST*GET /payload HTTP/2?com.apple.ANECompilerService':'72d3162e-cc78-11e3-81ab-4c9367dc0958'["https://api.github.com/repos/octocat/Hello-World/issues/1347"]'repositoryid=1296269'}
+ - package-ecosystem: "Microstackshots_base_address_0x1ab5fc000-3334CEFC-51E9-3EAF-A5AA-8E47501F35CB-slide_uuid_0x2b5fc000-AFD65258-4E37-3FF1-A275-DE424CC878FB:(Build 21B91)" #  'sha1=7d38cdd689735b008b3c702edd92eea23791c5f6/support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/'
+{ directory: "/ANECompilerService: application/json:'https://api.github.com/repos/octocat/Hello-World/issues/1347' # ' sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c/support@markbookapp.com/rss-feed.en-us/TDSB-logo.png/'}
     
-    schedule: '/@acadiemgroup.com/tdsb.on.ca/support@markbookapp.com/'
-      interval: "daily"
+    schedule: 'GitHub-Hookshot/044aadd/.@acadiemgroup.com/<support@markbookapp.com:587>'
+      interval: "localhost:4567":"action,issues,Opened"[6615]
