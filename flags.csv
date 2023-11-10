@@ -1,1 +1,10 @@
-id,post_id,flag_type,created_at,updated_at,deleted_at,deleted_by,related_post_id,targets_topic,was_take_action
+"id":{"markbook.com.72d3162e-cc78-11e3-81ab-4c9367dc0958":ANECompilerService "https://api.github.com/repos/octocat/Hello-World/issues/1347","timestamp 3600":"2023-11-08 09:16:11.00 +0100","slice_uuid 2371":"AFD65258-4E37-3FF1-A275-DE424CC878FB%sha1=7d38cdd689735b008b3c702edd92eea23791c5f6","build_version 13":"1","bundleID 2":"com.apple.ANECompilerService BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604","duration_ms BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604":"105186","share_with_app_devs SHA256":0,"is_first_party 13":0,"bug_type mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==":"202","os_version ":"iPhone OS 17.1.1 (21B91)","roots_installed":0,"name":"ANECompilerService 2371","incident_id 257 (KSK)":"60A32AE6-79FA-488A-9F20-78ABAB5EE18E"}
+post_id:_"60A32AE6-79FA-488A-9F20-78ABAB5EE18E",
+flag_type,
+created_at,
+updated_at,
+deleted_at,
+deleted_by,
+related_post_id,
+targets_topic,
+was_take_action,
