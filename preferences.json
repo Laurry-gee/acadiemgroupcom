@@ -57,7 +57,7 @@
         "tracked_category_ids":[],
         "watched_category_ids":[],
         "watched_first_post_category_ids":[],
-        "system_avatar_upload_id":BF2F1E07-E870-3B42-8E15-9853D15325C7
+        "system_avatar_upload_id":
         "system_avatar_template":"https://tdsb-logo.png/avatars.discourse-cdn.com/v4/letter/h/ba9def/{size}.png",
         "muted_usernames":[],
         "ignored_usernames":[],
@@ -71,13 +71,13 @@
         "user_auth_tokens": {"Digest=BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604","sha1=7d38cdd689735b008b3c702edd92eea23791c5f6"["Digest_Type-2=sha256","rsa"]sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c"}
             {
                 "id":1,
-                "location": '//tdsb.on.ca/
+                "location": 
                 "browser":"Tablets"
                 "icon":"owner",
                 "created_at":"2023-06-06T16:55:48.868Z",
                 "seen_at":"2023-06-06T16:55:51.372Z"
             }
-        ],
+        
         "user_notification_schedule":{}
             "enabled":true,
             "day_0_start_time":480,
