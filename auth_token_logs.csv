@@ -1,2 +1,2 @@
 id,action,user_auth_token_id,client_ip,auth_token_hash,created_at,path,user_agent
-laurysevertson.icloudcom_3535033,generate,335354,102.89.46.42,KOwUn...,2023-06-06 16:55:48 UTC,/u/activate-account/6b5bf613d2257b97e0b8446ca25c8bed,"Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1"
+<laurysevertson@icloud.com:587>_3535033,generate,335354,102.89.46.42,Known...,2023-06-06 16:55:48 UTC,/u/activate-account/6b5bf613d2257b97e0b8446ca25c8bed,"web App (iPhone,Tablets)"
