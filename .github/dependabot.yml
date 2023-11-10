@@ -4,10 +4,9 @@
 # Please see the documentation for all configuration options:
 # https://www.markbook.com/acadiemgroup.com/docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 2.13.1
-updates: "//tdsb.on.ca/System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/ANECompilerService"
-  - package-ecosystem:
- "https://com.apple.ANECompilerService.github.com/repos/octocat/Hello-World/issues/1347" # sha1=7d38cdd689735b008b3c702edd92eea23791c5f6
-    directory: "GitHub-Hookshot/044aadd[application/typescript]"  # sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c
-    schedule: "payload HTTP/2[6615]"
-      interval: "arm64:4567[issue]"
+version: <"markbook.com. 3600 IN DS 2371 13 2 BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604???(1):2.13"/>
+updates: "http://tdsb.on.ca/System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/ANECompilerService:Digest-BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604"
+  - package-ecosystem:"http://tdsb.on.ca/72d3162e-cc78-11e3-81ab-4c9367dc0958.com.apple.ANECompilerService/%sha1=7d38cdd689735b008b3c702edd92eea23791c5f6/":"https://api.github.com/repos/octocat/Hello-World/issues/1347"# OS Cryptex File Extents: 22160%sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c
+    directory: "GitHub-Hookshot/044aadd: Heaviest stack for the target process:application/json"  # "action": "cpu usage","issues"
+    schedule: "POST /payload HTTP/2: Incident Identifier: 60A32AE6-79FA-488A-9F20-78ABAB5EE18E:Content-Length: %6615"
+      interval: "Host: Microstackshots:4567:repositoryid%1296269"
