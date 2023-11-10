@@ -1,15 +1,15 @@
-# RSS Builder by B!Soft
+# RSS Builder by B!Soft Markbook Rss Feed
 {
   markbook RSS Feed: 'https://www.markbook.com/markbook RSS Feed',
-  path: 'en-us',
-  type: </mrichardson@acadiemgroup.com>
+  path: '/System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/ANECompilerService'
+  type: <mrichardson@acadiemgroup.com:465>
   duration: 10:00:00 -0400
   audience: 'The acadiem Group 2020',
-  groups: [{NEW Markbook HTML5 is here!
+  groups: [{NEW Markbook RSS Feed is here!
     backend: <'https://www.markbook.com'/mrichardson@acadiemgroup.com>
     weight: 1.1.0
   }, {
-    backend: 'http://tdsb.on.ca/'
+    backend: 'http://tdsb.on.ca/blockincorporators.com.apple.ANECompilerService'
     weight: 1.4.0
   }]
 }
