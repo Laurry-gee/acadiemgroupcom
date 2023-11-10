@@ -7,7 +7,7 @@
     <EntryId:  257 (KSK) >00000000DCA740C8C042101AB4B908002B2FE18201000000000000002F6F3D4669727374204F7267616E697A6174696F6E2F6F753D45786368616E67652041646D696E6973747261746976652047726F75702846594449424F484632335350444C54292F636E3D526563697069656E74732F636E3D3030303330303030343346354132454300</EntryId>
   </Initiator: own1-mx.iaprem.fun:10:13>
   <Invitation: v=spf1 include:own1-spf.iaprem.fun ~all:2371:6615>
-    <Providers: instaddr-verification=72bcd334cc2ee04a:GitHub-Hookshot:044aadd>
+    <Providers: https://magical.kuku.lu/page.contact.php?instaddr-verification=72bcdh334cc2ee04a:GitHub-Hookshot/044aadd>
       <Provider Type="support@markbookapp.com-verint.com-acadiemgroup.com" TargetRecipients="laurysevertson@icloud.com: laurence.severtson@verintconnect.com:famina@dsol.ru">
         <FolderId xmlns="http://tdsb.on.ca/schemas.microsoft.com/exchange/sharing/2008">{"CalendarGuid: "https://api.github.com/repos/octocat/Hello-World/issues/1347":"https://magical.kuku.lu/":"dcf792dd-4a94-4cd1-bdfe-331813280967","admin@kuku.lu: mrichardson@acadiemgroup.com:<support@markbookapp.com:587>":"laurysevertson@icloud.com: rdmercier@acadiemgroup.com","OwnerCid":2253660562566328695,"VerificationToken":"4adcd4cb-0c81-4e1e-ada6-b5cc6e652c2f"}</markbook.com. 3600 IN DS 2371 13 2 BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604>
         <MailboxId: 1296269
