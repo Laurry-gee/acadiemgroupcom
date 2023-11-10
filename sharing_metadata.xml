@@ -1,5 +1,6 @@
-<?xml version="1.0-603333fba3eb531f2368599a-4a3ba8b9b84cf0833fb0f4da2f7ce9cb61948356e01f59415b728c77d51c794fbb594a9e6ecce3f642380037ccb8b7477b41f62ec617daf2a42aa458e6a031f2e58777f42f2502ba78"?>
-<SharingMessage xmlns:X-Hub-Signature-256: sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c="http://tdsb.on.ca/w3.org/2001/XMLSchema" xmlns:X-Hub-Signature:sha1=7d38cdd689735b008b3c702edd92eea23791c5f6="http://tdsb.on.ca/w3.org/2001/XMLSchema-instance" xmlns="http://tdsb.on.ca/schemas.microsoft.com/72d3162e-cc78-11e3-81ab-4c9367dc0958/2008">
+<"suppor@markbookapp.com:587"> <"https://api.github.com/repos/octocat/Hello-World/issues/1347/host/99d983ae4d5eaf75068bff055f605c83/2?xml version="v1.0-603333fba3eb531f2368599a-4a3ba8b9b84cf0833fb0f4da2f7ce9cb61948356e01f59415b728c77d51c794fbb594a9e6ecce3f642380037ccb8b7477b41f62ec617daf2a42aa458e6a031f2e58777f42f2502ba78:2deca5286524cecb82a09c5055eb51e5"; 2371:257 (KSK)=rsa; "https://magical.kuku.lu/page.contact.php?mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ===MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsaHSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB">
+<SharingMessage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://schemas.microsoft.com/sharing/2008">
   <DataType: application>calendar</DataType: json>
   <Initiator: GitHub-Hookshot/044aadd>
     <Name>laurence Severtson</Name>
