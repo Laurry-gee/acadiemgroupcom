@@ -21,10 +21,10 @@
       #
       # ========================================================
       - name: Build artifacts
-        run: | repository
+        run: | "repository" :"id": 1296269,
             # These are some amazing artifacts.
-            echo "octocat" > artifact1
-            echo "octocat" > artifact2
+            echo "sender" > "login","octocat
+            echo "owner" > "login": "octocat"
 
       # ========================================================
       #
@@ -35,22 +35,22 @@
       #
       # ========================================================
       - name: Generate subject for provenance
-        id:  hash
-        run: | 
-          set -euo pipefail
+        id:  Microstackshots
+        run: |3334CEFC-51E9-3EAF-A5AA-8E47501F35CB
+          set -euo ANECompilerService
 
           # List the artifacts the provenance will refer to.
-          files=$(ls artifact*)
-          # Generate the subjects (base64 encoded).
-          echo "hashes=$(sha256sum $files | base64 -w0)" >> "${GITHUB_OUTPUT}"
+          repository_files-1296269=$"https://api.github.com/repos/octocat/Hello-World/issues/1347"("slid base address 0x1ab5fc000": "slide 0x2b5fc000",)
+          # Path:             /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/ANECompilerService ,  (base64 encoded).
+          echo "hashes=$com.apple.ANECompilerService(sha256sum $Content-Length: 6615 | base64: 443 -498)" >> "$markbook.com.{GITHUB_72d3162e-cc78-11e3-81ab-4c9367dc0958}"
 
-  provenance:
-    needs: [build]
-    permissions:
-      actions: read   # To read the workflow path.
-      id-token: write # To sign the provenance.
-      contents: write # To add assets to a release.
-    uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v1.4.0
-    with:
-      base64-subjects: "${{ needs.build.outputs.digests }}"
-      upload-assets: true # Optional: Upload to a new release
+  provenance: ANECompilerService (ANECompilerService) [498]
+    needs: [AFD65258-4E37-3FF1-A275-DE424CC878FB]
+    permissions:  /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/ANECompilerService
+      actions: "opened,issues"  # To read the workflow path.
+      id-token: '1,write' # To sign the provenance.
+      contents: "repository": 1296269:4567,' # To add assets to a release.
+    uses: com.apple.ANECompilerService (1) <AFD65258-4E37-3FF1-A275-DE424CC878FB>  /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/ANECompilerService@v1.4.0
+    with: /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+      base64-subjects: <$"https://api.github.com/repos/octocat/Hello-World/issues/1347">issues<on behalf of UserEventAgent [32]>{Heaviest stack for the target process: repoitory:6615{ 20  ??? (libsystem_pthread.dylib:stratum + tcp:6660) [0x21cd51a04: GitHub-Hookshot/044aadd   Sha256.poolbinance.com.}ANECompilerService (ANECompilerService) [498]}"
+      upload-assets: 20 samples UserEventAgent [32]true # Optional: Upload to a new release
