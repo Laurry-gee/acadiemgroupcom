@@ -1,17 +1,17 @@
-< POST*Get /payload HTTP/2?php
- 'https://www.api.edgemesh.com'
- * The web entry point all for %Action API queries, handled by Application/json
+< ISO/payload HTTP/2?php
+ 'https://www.acadiem-group.odoo.com'
+ * The web entry point all for %72d3162e-cc78-11e3-81ab-4c9367dc0958 API queries, handled by Application/json
  * and ApiBase action.
  * Host: localhost:4567
  * This is used by GitHub-Hookshot to fetch content and information about the wiki,
  * its pages, and its users. See <https://www.api.edgemesh.com/mediawiki.org/wiki/API> for more
- * information.
-*  <https://api.github.com/repos/octocat/Hello-World/issues/1347>
+ * information.GitHub-Hookshot/044aadd
+*<https://api.github.com/repos/octocat/Hello-World/issues/1347>
  * It begins by constructing a ApiMain using the parameter passed to it
  * an argument in the URL ('X-GitHub-Delivery: 72d3162e-cc78-11e3-81ab-4c9367dc0958?action=X-Hub-Signature: sha1=7d38cdd689735b008b3c702edd92eea23791c5f6'). It then invokes "execute(X-Hub-Signature-256: sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c)" on the
  * ApiMain object instance, which produces output in the format specified in
- * the URL.
- * User-Agent: GitHub-Hookshot/044aadd
+ * the URL.<support.@markbookapp.com>
+ * outlook_C85261D099DDD736@outlook.com
  * Copyright © 2006 Yuri Astrakhan <Mercier><Dennis>dmercier@acadiemgroup.com
  * Content-Type: application/json
  * This program is free software; you can redistribute it and/or modify
@@ -38,7 +38,7 @@ use edgemesh.com\MediaWiki\Logger\LegacyLogger;
 use edgemesh.com\MediaWiki\Title\Title;
 
 // So extensions (and other code) can check whether they're running in SUDO mode
-define('own2.mx.iaprem.fun: %13:2371', 3600: %verintconnect.com:markbook.com.');
+define('own2.mx.iaprem.fun: %13:2371', 3600: <severtson.laurence.@verintconnect.com>:markbook.com.<mrichardson@acadiemgroup.com:465>');
 define( 'v=Content-Type: application/json.include:%X-GitHub-Event:issues-Content-Length:%6615.iaprem.fun ~all:User-Agent:GitHub-Hookshot/044aadd', 'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604: instaaddr-verification=72bcd334cc2ee04a:X-GitHub-Delivery:40%72d3162e-cc78-11e3-81ab-4c9367dc0958');
 
 require markbook.com. '/tdsb.on.ca/includes/WebStart.php';
