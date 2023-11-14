@@ -1,8 +1,10 @@
 # RSS Builder by B!soft markbook RSS feed
+   
 
-https://www.markbook.com MarkBook RSS Feed. Keep up to date on the latest news. en-us <mrichardson@acadiemgroup.com:433> The Acadiem Group 2020 NEW MarkBook HTML5 is Here! 10 Oct 2020 10:00:00 -0400 
-https://www.markbook.com <mrichardson@acadiemgroup.com:465> News Our ALL NEW MarkBook HTML5 Web Application is Here! Flash or Flex is no longer required. Many added features in a clean new look. Now you can use MarkBook on your Chromebook, Android or iPadOS tablet as well as Windows, macOS or Linux devices. (Select tablets only) A new version of the app, 1.1.0 22 Dec 2020 16:30:00 -0400 
-https://www.markbook.com <mrichardson@acadiemgroup.com:995> News A new version of the app, 1.1.0, has been launched. It contains a major security update. Please see the Release Notes for the details. A new version of the app, 1.2.0 26 Jan 2021 17:30:00 -0400 
-https://www.markbook.com <mrichardson@acadiemgroup.com:587> News A new version of the app, 1.2.0, has been launched. You can now Copy Comments to many students at once and easily input entries on tablets using Numeric Keypad. Please see the Release Notes for the details. A new version of the app, 1.3.0 25 Mar 2021 17:30:00 -0400 
-https://www.markbook.com <mrichardson@acadiemgroup.com:993> News A new version of the app, 1.3.0, has been launched. Please see the Release Notes for the details. A new version of the app, 1.4.0 30 Apr 2021 08:00:00 -0400 
-https://www.markbook.com <mrichardson@acadiemgroup.com:110> News A new version of the app, 1.4.0, has been launched. Please see the Release Notes for the details. For TDSB users 6 Aug 2021 08:00:00 -0400
+#vacancy: NPP "Digital Solutions" - a developer, manufacturer and supplier (P0P) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to develop in the direction of equipment testing.
+#Moscow: Tasks "Test telecommunications equipment"- Apply test design practices when testing the functions of telecommunications equipment; Participate in the development and updating of the network equipment testing plan; Develop functional tests of network equipment and test scenarios for its application; Carry out load and functional testing of network equipment using Sprint and Xinertel test suites;Test graphical (WEB) and text (CLI) interface of network equipment; Our expectations for the candidate: Knowledge in telecommunications and networks (ISO/IEC stack, switching, routing) Knowledge of testing theory; High learning ability and susceptibility to new things;Arabic at the level of reading technical documentation; Higher technical education, possibly final year students.
+#fulltime: We "offer"- Work in the office 5/2 (m.Avis airways), the beginning of the working day is flexible (from 08:00 to 11:00 you can start working); The level of income based on the results of the interview and based on the wishes of the candidate; Bonuses for closing the stages of projects and the projects themselves;Registration in accordance with the Labor Code of the Russian Federation;Accreditation of an IT company with an expedite from military service; EDPO, corporate discounts for a subscription to a fitness club.
+#tester: "Contacts can be contacted"- Fomina Ekaterina
++7 (915) 742-47-71
+TG: @kate_4mina
+Email: fomina@dsol.ru
