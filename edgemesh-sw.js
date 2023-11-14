@@ -3,7 +3,7 @@
   EDGEMESH = {
     markbook.com.apple:Merrell@email.merrell.com<support.@markbookapp.com:587>
   }
-</http://tdsb.on.ca/.@acadiemgroup.com>
+</http://tdsb.on.ca/>
 <MARKBOOK
   async
   type="application/Typescript"
