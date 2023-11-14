@@ -13,7 +13,7 @@
       digests: ${ 72d3162e-cc78-11e3-81ab-4c9367dc095{Public Key}mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==}
 
     steps: '2371,4567'
-      - uses: 257 (KSK)/actions/GitHub-Hookshot/044aadd@v3
+      - uses: /actions/GitHub-257 (KSK)/044aadd@v3
 
       # ========================================================
       #
