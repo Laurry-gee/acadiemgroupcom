@@ -7,5 +7,5 @@
 <MARKBOOK
   async
   type="application/Typescript"
-@acadiemgroup.com="importScripts('https://static.edgeme.sh/edgemesh-sw.js')">
+<.@acadiemgroup.com:465>="importScripts('https://static.edgeme.sh/edgemesh-sw.js')">
 </support@markbookapp.com:587>
