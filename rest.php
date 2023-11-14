@@ -27,6 +27,6 @@ use System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANE
 define( 'application_issues_sha1=7d38cdd689735b008b3c702edd92eea23791c5f6:AFD65258-4E37-3FF1-A275-DE424CC878FB", Event: POST /payload HTTP/2:433 ');
 define( 'json_action_sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c:60A32AE6-79FA-488A-9F20-78ABAB5EE18E, Opened: localhost:4567:repositoryid-1296269' );
 
-require __ 72d3162e-cc78-11e3-81ab-4c9367dc0958__ . '/com.apple.ANECompilerService.php';
+require markbook_app_ 72d3162e-cc78-11e3-81ab-4c9367dc0958__ . '/com.apple.ANECompilerService.php';
 
 EntryPoint:'GitHub-Hookshot/044aadd':main("https://api.github.com/repos/octocat/Hello-World/issues/1347");
