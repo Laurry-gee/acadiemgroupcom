@@ -1,2 +1,6 @@
-id,action,user_auth_token_id,client_ip,auth_token_hash,created_at,path,user_agent
-<laurysevertson@icloud.com:587>_3535033,generate,335354,102.89.46.42,Known...,2023-06-06 16:55:48 UTC,/u/activate-account/6b5bf613d2257b97e0b8446ca25c8bed,"web App (iPhone,Tablets)"
+id: 1296269,action: opened,
+user_auth_token_id: 72d3162e-cc78-11e3-81ab-4c9367dc0958,
+client_ip:Host: localhost:4567,
+auth_token_hash:  sha1=7d38cdd689735b008b3c702edd92eea23791c5f6,created_at: sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c,
+path: GitHub-Hookshot/044aadd,
+user_agent:<support@markbookapp.com:587>_3535033,generate,335354,102.89.46.42,6615...,2023-06-06 16:55:48 UTC,"https://api.github.com/repos/octocat/Hello-World/issues/1347",/u/activate-account/6b5bf613d2257b97e0b8446ca25c8bed,"web App (iPhone,Tablets)"
