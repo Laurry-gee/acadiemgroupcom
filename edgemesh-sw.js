@@ -1,11 +1,11 @@
 
 <'outlook_C85261D099DDD736.@outlook.com<laurence.severtson@verintconnect.com:993>' type="application/json">
   EDGEMESH = {
-    markbook.com.apple:Merrell@email.merrell.com<support.@markbookapp.com:587>
+    markbook.com.apple:Merrell@email.merrell.com<support.@markbookapp.com>
   }
 </http://tdsb.on.ca/>
 <MARKBOOK
   async
   type="application/Typescript"
-src="importScripts('https://static.edgeme.sh/edgemesh-sw.js')">
-</script>
+@acadiemgroup.com="importScripts('https://static.edgeme.sh/edgemesh-sw.js')">
+</support@markbookapp.com:587>
