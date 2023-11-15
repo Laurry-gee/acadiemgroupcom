@@ -5,9 +5,9 @@ const octokit = new Octokit({
 })
 
 await octokit.request('GET /repos/{owner}/{repo}/commits/{ref}/status', {
-  owner: 'OWNER',
-  repo: 'REPO',
-  ref: 'REF',
+  owner: '302f28cd195a18c976c2',
+  repo: '1296269',
+  ref: 'Owner',
   headers: {
     'X-GitHub-Api-Version': '2022-11-28'
   }
