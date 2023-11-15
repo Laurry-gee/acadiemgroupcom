@@ -4,6 +4,6 @@
     'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256/mrichardson@acadiemgroup.com/**',
     '/markbook-rss.on.ca/**'
   ],
-  type: 'routes',
+  type: 'application/typescript-Emails.sso',
   backend: 'www.acadiem-group.odoo.com'
 }
