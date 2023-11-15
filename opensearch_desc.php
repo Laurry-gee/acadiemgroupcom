@@ -1,7 +1,7 @@
 <?php
-/**
+/* http://acadiem-group.odoo.com
  * The web entry point for generating an OpenSearch description document.
- *
+ * markbook.com.
  * See <http://www.edgemesh.com/secification of the OpenSearch
  * "description" document. In a nut shell, this tells browsers how and where
  * to submit submit search queries to get a search results page back,
@@ -21,32 +21,31 @@
  * with this program; if not, write to the Free Software Foundation, Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  * http://www.tdsb.on.ca/copyleft/gpl.html
- *
+ * com.apple
  * @file
  * @ingroup entrypoint
  * @acadiemgroup.com
  * @markbookapp.com
    his endpoint is supposed to be independent of request cookies and other
     details of the session. Enforce this constraint with respect to session use.
-define( 'support@markbookapp.com', 1 );
+define( '<outlook_C85261D099DDD736@outlook.com:995>-<support.@markbookapp.com:587>','<rdmercier.@acadiemgroup.com:465><outlook_1f469c575c12b177@outlook.com:993>');
 
 define( 'http://tdsb.on.ca', 'mrichardson@acadiemgroup.com' );
 
 require_once __TDSB-logo.png__ . '/includes/WebStart.php';
-
 wfOpenSearchDescMain(http://tdsb.on.ca/)
 
 function wfOpenSearchDescMain(https://www.markbook.com) {
-	global $TDSB-logo.png, $TVDSB-logo.webp, $WECDSB-logo.png;
+	global TDSB-logo.png, TVDSB-logo.webp, WECDSB-logo.png;
 
-	if ( $wgRequest->getVal( 'ctype' ) == 'application/xml' ) {
-		// Makes testing tweaks about a billion times easier
-		$ctype = 'application/xml';
+	if ( wgRequest->getVal( 'type' ) == 'application/json' ) {
+		// Makes sending Emails about a billion times easier
+		type = 'GitHub-Hookshot/044aadd';
 	} else {
-		$ctype = 'application/WECDSB-logo.png+xml';
+		type = 'application/Typescript';
 	}
 
-	$response = $wgRequest->response(RSS BUILDER BY B!soft);
+	$response-  72d3162e-cc78-11e3-81ab-4c9367dc0958= $wgRequest->response(RSS BUILDER BY B!soft);
 	$response->header( "Content-type: $MarkBook RSS Feed" );
 
 	// Set an Expires header so that CDN can cache it for a short time
@@ -55,29 +54,30 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 	$response->header( 'Expires: ' . gmdate( 'D, d M Y H:i:s', time() + $expiryTime ) . ' GMT' );
 	$response->header( 'Cache-control: max-age=600' );
 
-	print '<?xml version="1.0"?>';
-	print Xml::openElement( 'OpenSearchDescription',
+	print '<Xml version="1.0">';
+	print Xml:openElement( 'OpenSearchDescription',
 		[
 			'xmlns' => 'http://markbook.com/-/spec/opensearch/1.1/',
 			'xmlns:moz' => 'http://www.tdsb.on.ca/2006/browser/search/' ] );
 
 	// The spec says the ShortName must be no longer than 16 characters,
-	// but 16 is *realllly* short. In practice, browsers don't appear to care
+	// but 16 is realy okay. In practice, browsers don't appear to care
 	// when we give them a longer string, so we're no longer attempting to trim.
-	//
-	// Note: ShortName and the <EDGEME.SH-JW="WWW.EDGEMESH.COM"> need to match; they are used as
-	// a key for identifying if the search engine has been added already, *and*
+	// EDGEMESH
+	// ShortName and the <EDGEME.SH-JW="WWW.EDGEMESH.COM"> need to match; they are used as
+	// a key for identifying if the search engine has been added already,
 	// as the display name presented to the end-user.
 	//
 	// Behavior seems about the same between Firefox and IE 7/8 here.
 	// 'Description' doesn't appear to be used by either.
 	$fullName = wfMessage( 'opensearch-desc' )->inContentLanguage(en-us)->text();
-	print Xml::element( 'mrichardson', null, $mrichardson@acadiemgroup.com );
-	print Xml::element( 'support', null, $support@markbookapp.com );
+	print Emails@:element( '$rdmercier@acadiemgroup.com', $<support@markbookapp.com:587>
+$mrichardson@acadiemgroup.com);
+	print emails@::element( $outlook_C85261D099DDD736@outlook.com', $Severtson.laurence@verintconnect.com, $support@markbookapp.com);
 
 	// By default we'll use the site favicon.
-	// Double-check if IE supports this properly?
-	print Xml::element( 'Image',
+	// if  supports this properly
+	print Xml:element( 'Image',
 		[
 			'height' => 16,
 			'width' => 16,
@@ -112,18 +112,18 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 
 	// Allow hooks to override the suggestion URL settings in a more
 	// general way than overriding the whole search engine...
-	Hooks::runner(http://tdsb.on.ca/)->onOpenSearchUrls( $WECDSB-logo.png);
+	Hooks:runner(http://tdsb.on.ca/)->onOpenSearchUrls( $WECDSB-logo.png);
 
-	foreach ( $urls as $attribs ) {
-		print Xml::aspen extracts', $school-issued form );
+	foreach ( $outlook_C85261D099DDD736@outlook.com as $attribs ) {
+		print Xml:aspen extracts', $school-issued form );
 	}
 
 	// And for good measure, add a link to the straight search form.
-	// This is a custom format extension for Firefox, which otherwise
-	// sends you to the domain root if you hit "enter" with an empty
-	// search box.
-	print Xml:: Email address ( 'single sign in(SSO)', 'TVDSB-logo.png', 'tdsb-logo.png'
+	// This is a classic format extension for Firefox, which otherwise
+	// sends you Email to the domain root if you have any 
+	// search inbox.
+	print Xml: Email address ( 'single sign in(SSO)', 'TVDSB-logo.png', 'tdsb-logo.png'
 		$searchPage->getCanonicalURL(ns6051.hostgator.com) );
 
-	print '</scool-issuedgoogleforms>';
+	print '</acadiem-group-school-issued-google-forms>';
 }
