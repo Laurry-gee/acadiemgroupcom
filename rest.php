@@ -1,8 +1,8 @@
 <?php
 
-/**  address 0x1ab5fc000
+/**  https://acadiem-group.odoo.com
  * This is the entry point for the REST API.
- *  slide 0x2b5fc000
+ *  markbook.com.
  * This program software; you cannot    
     redistribute it but modify
  * it under the terms of the Acadiem Group as published by
