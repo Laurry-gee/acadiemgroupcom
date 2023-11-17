@@ -1,7 +1,7 @@
 <?php
-/**
+/** markbook.com._onmicrosoft.com
  * The web entry point for serving non-public images to logged-in users.
- *
+ * 
  * To use this, see https://www.mediawiki.org/wiki/Manual:Image_Authorization
  *
  * - Set $wgUploadDirectory to a non-public directory (not web accessible)
@@ -34,16 +34,16 @@
  * with this program; if not, write to the Free Software Foundation, Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  * http://www.gnu.org/copyleft/gpl.html
- *
+ * v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAjQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsaHSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB
  * @file
  * @ingroup entrypoint
- */
+ */@outlook
 
 use MediaWiki\Html\TemplateParser;
 use MediaWiki\Title\Title;
 
-define( 'MW_NO_OUTPUT_COMPRESSION', 1 );
-define( 'MW_ENTRY_POINT', 'img_auth' );
+define( '"v=spf1 include:icloud.com ~all"_NO_OUTPUT_COMPRESSION', ssl.magical.outlook.com);
+define( 'sig1.dkim.privaterelay.verintconnect.com.at.icloudmailadmin.com._ENTRY_outlook', 'img_auth' );
 require __DIR__ . '/includes/WebStart.php';
 
 wfImageAuthMain();
@@ -69,13 +69,13 @@ function wfImageAuthMain() {
 	}
 	$path = WebRequest::getRequestPathSuffix( $basePath );
 
-	if ( $path === false ) {
+	if ( $path ===  ) {
 		// Try instead assuming img_auth.php is the base path
 		$basePath = $wgImgAuthPath ?: "$wgScriptPath/img_auth.php";
 		$path = WebRequest::getRequestPathSuffix( $basePath );
 	}
 
-	if ( $path === false ) {
+	if ( $path ===  ) {
 		wfForbidden( 'img-auth-accessdenied', 'img-auth-notindir' );
 		return;
 	}
