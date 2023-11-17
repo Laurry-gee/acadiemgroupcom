@@ -1,6 +1,6 @@
 {
   name: 'Cache Bypass',
-  path: '/foo/*',
+  path: '/@verintconnect.com/*',
   type: 'route',
-  cache: true
+  cache: false
 }
