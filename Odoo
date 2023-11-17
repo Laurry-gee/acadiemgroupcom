@@ -1,8 +1,8 @@
-$ git branch
-feature-X
-* production
-staging-1
-$ git merge staging-1.1
-$ git push
-To git@github.com:odoo/odoo.git
-* b70ca1f..7a0aa41 production -> production
+$ git branch feature-x_v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAjQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsaHSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB:apple-domain=pM×QemyFhwHdND3X:instaddr-verification=72bcdh334cc2ee04a
+* production staging-Sender-own1-mx.iaprem.fun:mx01.mail.icloud.com:2
+$ git merge staging-Sender-Owner_v=spf1 include:own1-spf.iaprem.fun:mx02.mail.icloud.com:13.
+$ git push ssl.kuku.lu._P67-smtp.mail.me.com
+To git@github.com-sig1.dkim.privaterelay.verintconnect.c
+om.at.outlook_C85261D099DDD736@outlook.com.:odoo-<support@markbookapp.com:587>/odoo.git
+* b70ca1f..7a0aa41 production -> "v=spf1 include:icloud.com ~all"
+
