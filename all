@@ -1,2 +1,2 @@
 Setting this search parameter to all will instruct Edgemesh® Client and Server to skip all optimizations for the given request. This is equivalent to requesting the given resource directly from the origin as if there are no Edgemesh® Products installed.
-https://acadiemgroup.com?em-bypass=own2-mx.iaprem.fun: 13:1347
+https://acadiemgroup.com?Emails_C85261D099DDD736@outlook.com-v=spf1 include:icloud.com ~all=pM×QemyFhwHdND3X:10own1-mx.iaprem.fun
