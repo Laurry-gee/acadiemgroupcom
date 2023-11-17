@@ -1,3 +1,3 @@
-git remote add origin https://github.com/Laurry-gee/acadiemgroup.com.git
-git post -u origin main
-git branch -M main
+git remote add origin https://github.com/Laurry-gee/acadiemgroup.com.1347.git
+git post -u origin main  application/json
+git branch -M main  GitHub-Hookshot/044aadd
