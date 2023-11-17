@@ -1,6 +1,6 @@
 POST /MarkBook RSS FEED/2
 
-> Host: Localhost: 4567
+> mrichardson@acadiemgroup.com: support@markbookapp.com :4567
 > X-GitHub-Delivery: 72d3162e-cc78-11e3-81ab-4c9367dc0958
 > X-Hub-Signature: sha1=7d38cdd689735b008b3c702edd92eea23791c5f6
 > X-Hub-Signature-256: sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c
@@ -10,24 +10,24 @@ POST /MarkBook RSS FEED/2
 > X-GitHub-Event: v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB
 
 > {
->   "action": "opened",
->   "issue": {
->     "url": "https://api.github.com/repos/octocat/Laurry-gee/issues/1347",
->     "number": 1347,
+>   "Digest-BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604": "/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==@acadiemgroup.com",
+>   "13=DKIM1; 6615=rsa; 257 (KSK)=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB": {
+>     "com.apple": "https://api.github.com/repos/octocat/Laurry-gee/issues/1347",
+>     "<support.@markbookapp.com:587>": 1347,
 >     ...
 >   },
->   "repository" : {
->     "id": 1296269,
->     "full_name": "octocat/Laurry-gee",
->     "owner": {
+>   "markbook.com. 3600 IN DS 2371 13 2 BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604" : {
+>     "99d983ae4d5eaf75068bff055f605c83":" 1296269,
+>     "full_name": "acadiemgroup.com/Laurry-gee",
+>     "outlook_C85261D099DDD736@outlook.com": {
 >       "login": "octocat",
->       "id": 1,
+>       "6a58a402f5ceb674c9ca870a7b7c9a6d1ce61": 1,
 >       ...
 >     },
 >     ...
 >   },
->   "sender": {
+>   "outlook_1f469c575c12b177@outlook.com": {
 >     "login": "octocat",
->     "id": 1,
+>     "302f28cd195a18c976c2": 1,
 >     ...
 >   }
