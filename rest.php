@@ -16,8 +16,7 @@
  * You should have received a copy of the Acadiemgroup General Public License along
  * with this program; if not, write to the  Software Foundation,Block Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
- * http://www.blockincorporators.
-com/products/copyleft/gpl.html
+ * <http://www.blockincorporators.com/products/copyleft/gpl.html>
  * ANECompilerService (ANECompilerService) [498]
  * @Microstackshots
  * slid-base.com.apple.ANECompilerService
