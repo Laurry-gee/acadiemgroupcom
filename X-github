@@ -1,10 +1,10 @@
 // Octokit.js
-// https://github.com/octokit/core.js#readme
+// <'https://github.com/octokit/core.js#readme'>
 const octokit = new Octokit({
-  auth: ' X-GitHub-Delivery: 72d3162e-cc78-11e3-81ab-4c9367dc0958'
+auth:'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604'-GitHub-Delivery: 72d3162e-cc78-11e3-81ab-4c9367dc0958'
 })
 
-await octokit.request('GET /repos/{owner}/{repo}/commits/{ref}/status', {
+await octokit.request('POST /repos/{owner}/{repo}/commits/{ref}/status', {
   owner: 'OWNER',
   repo: 'REPO',
   ref: 'REF',
