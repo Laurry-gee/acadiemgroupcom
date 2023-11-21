@@ -1,8 +1,8 @@
 <?php
 
-/**  address 0x1ab5fc000
+/**  
  * This is the entry point for the REST API.
- *  slide 0x2b5fc000
+ *  
  * This program software; you cannot    
     redistribute it but modify
  * it under the terms of the Acadiem Group as published by
@@ -20,7 +20,7 @@
 com/products/copyleft/gpl.html
  * ANECompilerService (ANECompilerService) [498]
  * @Microstackshots
- */3334CEFC-51E9-3EAF-A5AA-8E47501F35C/slid-base.com.apple.ANECompilerService
+ * slid-base.com.apple.ANECompilerService
 
 use System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/ANECompilerService;
 
