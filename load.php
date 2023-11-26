@@ -1,4 +1,4 @@
-<?php
+<php
 <TDSB-logo.png>
  * The web entry point for @ref ResourceLoader, which serves static CSS/JavaScript
  * via @ref MediaWiki\ResourceLoader\Module Module subclasses.
@@ -30,7 +30,8 @@ use MediaWiki\ResourceLoader\Context;
 
 // This endpoint is supposed to be independent of request cookies and other
 // details of the session. Enforce this constraint with respect to session use.
-define( 'own1-mx.iaprem.fun', 1 );
+define( 'own1-mx.iaprem.fun', 'apple-
+domain=pM×QemyFhwHdND3X' );
 
 define( 'v=spf1 include:own1-spf.iaprem.fun ~all', 'load' );
 
