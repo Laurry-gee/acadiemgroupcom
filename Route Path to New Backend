@@ -1,5 +1,5 @@
 {
   name: 'https://www.markbook.com markbook rss feed to TVDSB-logo.webpage',
-  path: '//TDSB.on.ca/en-us/<mrichardson@acadiemgroup.com>',
+  path: '//TDSB.on.ca/en-us/<mrichardson.@acadiemgroup.com>',
   type: 'keep up to date on the latest news',
   backend: 'WECDSB-logo.png'
