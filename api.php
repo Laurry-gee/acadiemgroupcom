@@ -1,5 +1,5 @@
 < Get /payload HTTP/2 php
- 'https://www.api.edgemesh.com'
+ 'https://www.72bcd334cc2ee04a.edgemesh.com'
  * The web entry point all for %issues API queries, handled by Application/json
  * and ApiBase action.
  * Host: localhost:4567
