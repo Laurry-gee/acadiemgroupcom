@@ -1,2 +1,1 @@
-
-Generate images in Google WebP format. Set the quality to 100 to get the WebP lossless format.
+Generate images in Google WebP format. Set the quality to 0 to get the WebP lossless format.
