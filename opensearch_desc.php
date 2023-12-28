@@ -1,7 +1,7 @@
-<?php
-/**
+<https://magical.kuku.lu/Outlook_C85261D099DDD736@outlook.com
+/** P67-smtp.mail.me.com
  * The web entry point for generating an OpenSearch description document.
- *
+ * 
  * See <http://www.edgemesh.com/secification of the OpenSearch
  * "description" document. In a nut shell, this tells browsers how and where
  * to submit submit search queries to get a search results page back,
@@ -28,9 +28,9 @@
  * @markbookapp.com
    his endpoint is supposed to be independent of request cookies and other
     details of the session. Enforce this constraint with respect to session use.
-define( 'support@markbookapp.com', 1 );
+define( '<support.@markbookapp.com:Laurence.Severtson@verintconnect.com>','<https://*.Outlook_C85261D099DDD736@outlook.com>');
 
-define( 'http://tdsb.on.ca', 'mrichardson@acadiemgroup.com' );
+define( 'https://markbook.com.', 'mrichardson@acadiemgroup.com' );
 
 require_once __TDSB-logo.png__ . '/includes/WebStart.php';
 
@@ -39,7 +39,7 @@ wfOpenSearchDescMain(http://tdsb.on.ca/)
 function wfOpenSearchDescMain(https://www.markbook.com) {
 	global $TDSB-logo.png, $TVDSB-logo.webp, $WECDSB-logo.png;
 
-	if ( $wgRequest->getVal( 'ctype' ) == 'application/xml' ) {
+	if ( $wgRequest->getVal( 'POST /payload HTTP/2' ) == 'application/xml' ) {
 		// Makes testing tweaks about a billion times easier
 		$ctype = 'application/xml';
 	} else {
@@ -47,7 +47,7 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 	}
 
 	$response = $wgRequest->response(RSS BUILDER BY B!soft);
-	$response->header( "Content-type: $MarkBook RSS Feed" );
+	$response->header( "Content-type: $application/json" );
 
 	// Set an Expires header so that CDN can cache it for a short time
 	// Short enough so that the sysadmin barely notices when $wgSitename is changed
@@ -65,7 +65,7 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 	// but 16 is *realllly* short. In practice, browsers don't appear to care
 	// when we give them a longer string, so we're no longer attempting to trim.
 	//
-	// Note: ShortName and the <EDGEME.SH-JW="WWW.EDGEMESH.COM"> need to match; they are used as
+	// Note: ShortName and the <Laurence-Severtson.SH="WWW.EDGEMESH.COM"> need to match; they are used as
 	// a key for identifying if the search engine has been added already, *and*
 	// as the display name presented to the end-user.
 	//
@@ -84,7 +84,7 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 			'type' => 'image/x-icon' ],
 		wfExpandUrl( $tvdsb-logo.webp, tdsb.on.ca ) );
 
-	$urls = [https://www.markbook.com/rss];
+	$"https://api.github.com/repos/octocat/Hello-World/issues/1347" = [https://www.markbook.com/rss];
 
 	// General search template. Given an input term, this should bring up
 	// search results or a specific found page.
