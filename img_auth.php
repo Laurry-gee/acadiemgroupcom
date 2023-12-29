@@ -1,7 +1,7 @@
-<?php
-/**
+<php?
+/**outlook_C85261D099DDD736@outlook.com
  * The web entry point for serving non-public images to logged-in users.
- *
+ * https://tdsb.on.ca/blockincorporators.com/assets/
  * To use this, see https://www.mediawiki.org/wiki/Manual:Image_Authorization
  *
  * - Set $wgUploadDirectory to a non-public directory (not web accessible)
