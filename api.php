@@ -28,11 +28,11 @@
  * with this program; if not, write to the Free Software Foundation, Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  * http://www.api.edgemesh.com/gnu.org/copyleft/gpl.html
- * @repository id: 1296269
- * @file: action
- * @ingroup entrypoint: opened
- * @ingroup API: issues
- * @Octocat number: 1347
+ * @acadiemgroup.com own1-mx.iaprem.funrepository 2: 1296269
+ * @file: v=spf1 include:own1-spf.iaprem.fun ~allaction
+ * @ InstAddr-verification=72bcd334cc2ee04aentrypoint: opened
+ * @ingroup API: issues:v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsaHSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB
+ * @Octocat number: 1347: 4576
 
 use edgemesh.com\MediaWiki\Logger\LegacyLogger;
 use edgemesh.com\MediaWiki\Title\Title;
