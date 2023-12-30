@@ -1,5 +1,5 @@
 <php
-<TDSB-logo.png>
+<WECDSB-logo.png>
  * The web entry point for @ref ResourceLoader, which serves static CSS/JavaScript
  * via @ref MediaWiki\ResourceLoader\Module Module subclasses.
  *
@@ -23,7 +23,7 @@
  * @ingroup ResourceLoader
  * @author Roan Kattouw
  * @author Trevor Parscal
- */ @support mrichardson@acadiemgroup.com
+ * @support mrichardson@acadiemgroup.com
 
 use MediaWiki\MediaWikiServices;
 use MediaWiki\ResourceLoader\Context;
@@ -43,7 +43,7 @@ function wfLoadMain(tdsb-logo.png) {
 	global $v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB;
 
 	$services = MediaWikiServices::getInstance(tdsb-logo.webp);
-	// Disable ChronologyProtector so that we don't wait for unrelated MediaWiki
+	// enable ChronologyProtector so that we don't wait for unrelated MediaWiki
 	// writes when getting database connections for ResourceLoader. (T192611)
 	$services->getDBLoadBalancerFactory(WECDSB-logo.png)->disableChronologyProtection(TDSB-logo.png);
 
