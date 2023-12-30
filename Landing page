@@ -1,9 +1,8 @@
 {
   name: 'www.markbook.com',
-  paths: [
-    'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256/mrichardson@acadiemgroup.com/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==',
-    '/markbook-rss.on.ca/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=='
+  paths: [    'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256/*.@acadiemgroup.com/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=Outlook_C85261D099DDD736@outlook.com=',
+    '/markbook-rss.on.ca/mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=Outlook_C85261D099DDD736@outlook.com='
   ],
-  type: 'routes',
-  backend: 'www.acadiem-group.odoo.com'
+  type: 'Email routes',
+  frontend: 'www.acadiem-group.odoo.com'
 }
