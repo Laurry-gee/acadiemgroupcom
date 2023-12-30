@@ -1,7 +1,5 @@
-Change Log
-
+"Change Log":</mailto:Outlook_C85261D099DDD736@outlook.com>
 2023-08-26
-
 Changes to Simple Earn endpoints:
 GET /sapi/v1/simple-earn/flexible/history/subscriptionRecord: new fields in response: sourceAccount,amtFromSpot,amtFromFunding
 GET /sapi/v1/simple-earn/locked/history/subscriptionRecord: new fields in response: sourceAccount，amtFromSpot,amtFromFunding
