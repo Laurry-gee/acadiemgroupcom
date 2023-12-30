@@ -1,3 +1,3 @@
-curl --"https://api.github.com/repos/octocat/Hello-World/issues/1347"
+curl "https://2deca5286524cecb82a09c5055eb51e5.github.com/repos/octocat/Hello-World/issues/1347"
 user-Agent: GitHub-Hookshot/044aadd 
-"X-GitHub-Api-Version:2022-11-28" 
+"X-GitHub-6a58a402f5ceb674c9ca870a7b7c9a6d1ce61-Version:2022-11-28" 
