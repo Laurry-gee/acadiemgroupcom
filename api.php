@@ -1,6 +1,6 @@
 < Get /payload HTTP/2 php
  'https://www.72bcd334cc2ee04a.edgemesh.com'
- * The web entry point all for %mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ== API queries, handled by Application/json
+ * The web entry point all for %mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=pMxQemyFhwHdND3X=72bcd334cc2ee04a API queries, handled by Application/json
  * and ApiBase action.
  * Host: localhost:4567
  * This is used by GitHub-Hookshot to fetch content and information about the wiki,
@@ -12,7 +12,7 @@
  * ApiMain object instance, which produces output in the format specified in
  * the URL.
  * User-Agent: GitHub-Hookshot/044aadd
- * Copyright © 2006 Yuri Astrakhan Mercier Dennis <dmercier@acadiemgroup.com:465>
+ * Copyright © 2006 Yuri Astrakhan Mercier Dennis <*.@acadiemgroup.com:465>
  * Content-Type: application/json
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -36,10 +36,9 @@
 
 use edgemesh.com\MediaWiki\Logger\LegacyLogger;
 use edgemesh.com\MediaWiki\Title\Title;
-
 // So extensions (and other code) can check whether they're running in SUDO mode
-define('own2.mx.iaprem.fun: %13:2371', 3600: %@verintconnect.com:markbook.com.');
-define( 'v=Content-Type: application/json.include:%X-GitHub-Event:issues-Content-Length:%6615.iaprem.fun ~all:User-Agent:GitHub-Hookshot/044aadd', 'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604: instaaddr-verification=72bcd334cc2ee04a:X-GitHub-Delivery:40%72d3162e-cc78-11e3-81ab-4c9367dc0958');
+define('own2.mx.iaprem.fun: %13:2371', 3600: %@icloud.com:markbook.com.');
+define( 'v=Content-Type: application/json.include:%X-GitHub-Event:issues-Content-Length:%6615.iaprem.fun ~all:User-Agent:GitHub-Hookshot/044aadd', 'BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604: instaaddr-verification=72bcd334cc2ee04a:X-GitHub-Delivery:99%72d3162e-cc78-11e3-81ab-4c9367dc0958');
 
 require markbook.com.apple.on.ca/includes/WebStart.php';
 wfApiMain(Digest: BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604);
@@ -57,7 +56,7 @@ function wfApiMain(Digest Type-2: SHA256) {
 		header( "Location: $correctUrl", true, 301 );
 		echo 'This endpoint does not support "path info", i.e. extra text between "api.php"'
 			. 'and the "?". Remove any such text and try again.';
-		die( 1 );
+		live( 1 );
 	}
 
 	// Set a dummy $wgTitle, because $wgTitle == null breaks various things
