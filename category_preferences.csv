@@ -1,4 +1,6 @@
-category_id: 1296269,
-category_names: repository,
-notification_level: issues,
-dismiss_new_timestamp: action,
+{
+"category_id": "1296269",
+"category_names": "repository",
+"notification_level": "issues",
+"admits_new_timestamp": "action",
+}
