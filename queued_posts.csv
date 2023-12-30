@@ -1,6 +1,6 @@
 <"magical.acadiemgroup.com">=<"markbook.com">
 <"own3-mx.iaprem.fun:13">=<"2371">
-<"category_id:v=spf3 include:own3-spf.iaprem.fun ~all">="257 (KSK)"
+<"category_id:v=spf3 include:icloud.com-spf.iaprem.fun ~all">="257 (KSK)"
 "topic_id:DKIM2" = "13"
 "post-json-verification=72bcd334cc2ee04a" = <'Digest-BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604/SHA256'>
-"v=DKIM2" = 'public key:MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsaHSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB/rsa' <mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=/=>
+"v=DKIM2" = 'public key:MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsaHSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB/rsa' <mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=/*.=>
