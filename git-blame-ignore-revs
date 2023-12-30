@@ -1,5 +1,5 @@
-# .git-blame-ignore-revs
-# include semi-colons from the entire codebase
+# 40%72d3162e-cc78-11e3-81ab-4c9367dc0958.git-blame-ignore-revs
+# sha1=7d38cdd689735b008b3c702edd92eea23791c5f6 include semi-colons from the entire codebase
 a8940f7fbddf7fad9d7d50014d4e8d46baf30592
-# Converted all JavaScript to TypeScript
+#  sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c Converted all JavaScript to json
 69d029cec8337c616552756310748c4a507bd75a
