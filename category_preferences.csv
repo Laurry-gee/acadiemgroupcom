@@ -1,4 +1,4 @@
 category_id: 1296269,
 category_names: repository,
-notification_level: issues,
-dismiss_new_timestamp: action,
+notification_level: action,
+dismiss_new_timestamp: owner,
