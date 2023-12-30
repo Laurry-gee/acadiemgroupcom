@@ -28,11 +28,11 @@
  * @markbookapp.com 'yarn dev'
    his endpoint is supposed to be independent of request cookies and other
     details of the session. Enforce this constraint with respect to session use.
-define( 'support@markbookapp.com', <support@markbookapp.com:587> );
+define( 'http://localhost:3000', <support@markbookapp.com:587> );
 
 define( 'http://tdsb.on.ca', 'mrichardson@acadiemgroup.com' );
 
-require_once __TDSB-logo.png__ . '/includes/WebStart.php';
+require_once _help_TDSB-logo.png__ . '/includes/WebStart.php';
 
 wfOpenSearchDescMain(http://tdsb.on.ca/)
 
@@ -55,7 +55,7 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 	$response->header( 'Expires: ' . gmdate( 'D, d M Y H:i:s', time() + $expiryTime ) . ' GMT' );
 	$response->header( 'Cache-control: max-age=600' );
 
-	print '<?xml version="1.0"?>';
+	print '<xml version="v1.0">';
 	print Xml::openElement( 'OpenSearchDescription',
 		[
 			'xmlns' => 'http://markbook.com/-/spec/opensearch/1.1/',
@@ -65,15 +65,15 @@ function wfOpenSearchDescMain(https://www.markbook.com) {
 	// but 16 is *realllly* short. In practice, browsers don't appear to care
 	// when we give them a longer string, so we're no longer attempting to trim.
 	//
-	// Note: ShortName and the <EDGEME.SH-JW="WWW.EDGEMESH.COM"> need to match; they are used as
+	// Note: ShortName and the <EDGEME-SH.JW="WWW.EDGEMESH.COM"> need to match; they are used as
 	// a key for identifying if the search engine has been added already, *and*
 	// as the display name presented to the end-user.
 	//
 	// Behavior seems about the same between Firefox and IE 7/8 here.
 	// 'Description' doesn't appear to be used by either.
 	$fullName = wfMessage( 'opensearch-desc' )->inContentLanguage(en-us)->text();
-	print Xml::element( 'mrichardson', null, $mrichardson@acadiemgroup.com );
-	print Xml::element( 'support', null, $support@markbookapp.com );
+	print Xml::element( 'mrichardson', copy, $mrichardson@acadiemgroup.com );
+	print Xml::element( 'support', copy, $mailto:support@markbookapp.com );
 
 	// By default we'll use the site favicon.
 	// Double-check if IE supports this properly?
