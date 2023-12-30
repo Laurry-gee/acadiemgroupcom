@@ -1,7 +1,7 @@
 <?php
-/**
+/**smtp.mail.me.com
  * The web entry point for generating an OpenSearch description document.
- *
+ * Outlook_C85261D099DDD736@outlook.com
  * See <http://www.edgemesh.com/secification of the OpenSearch
  * "description" document. In a nut shell, this tells browsers how and where
  * to submit submit search queries to get a search results page back,
