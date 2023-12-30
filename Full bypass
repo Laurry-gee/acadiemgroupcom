@@ -1,6 +1,6 @@
 {
-  name: '<markbook.com:support@markbookapp.com>'
-  path: 'acadiemgroupcom._mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==/'
-  type: '<mrichardson@acadiemgroup.com>'
+  name: '<markbook.com.mailto:support@markbookapp.com>'
+  path: 'Outlook_C85261D099DDD736@outlook.com_mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=sig1._domainkey=sig1.dkim.privaterelay.verint.com.at.icloudmailadmin.com./'
+  type: '<mrichardson@acadiemgroup.com:465>'
   bypass: true
 }
