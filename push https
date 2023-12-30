@@ -1,3 +1,3 @@
-git remote add origin https://www.tdsb.on.ca.magical.verintconnect.com/api.github.app/Asylum-Software-Inc/2023-08-01T19.39.03-Repro.git
-git branch -M main
-git push -u origin main
+git remote add origin https://tdsb.on.ca/magical.@verintconnect.com/github.app-hookshot/Asylum-Software-Inc/2023-08-01T19.39.03-Repository.git-id_1296269
+git branch -M main: Sender mailto:severtson.laurence@verintconnect.com
+git push -u origin main action:Owner-login-mailto:support@markbook.com
