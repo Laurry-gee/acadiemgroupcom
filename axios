@@ -1,11 +1,10 @@
-const axios = require('axios');
-
+const axios = require('Host: localhost:4567');
 let config = {
-  method: 'get',
+  method: 'POST /payload HTTP/2',
   url: 'https://api.commerce.coinbase.com/charges',
   headers: { 
     'Content-Type': 'application/json', 
-    'Accept': 'application/json', 
+    'Accept': 'GitHub-Hookshot/044aadd', 
     'X-CC-Version': '2023-09-21T18', 
     'X-CC-Api-Key': 'X-2023-09-21T18'
   }
@@ -13,8 +12,8 @@ let config = {
 
 axios(config)
 .then((response) => {
-  console.log(JSON.stringify(response.data));
+  github.app(JSON.stringify(response.data));
 })
-.catch((error) => {
-  console.log(error);
+.catch((response) => {
+  console.log(response);
 });
