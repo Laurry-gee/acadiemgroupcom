@@ -13,7 +13,7 @@
  * (at your option) any later version.
  *
  * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * but WITHOUT ANY WARRANTY, without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  * GNU General Public License for more details.
  *
@@ -21,14 +21,14 @@
  * with this program; if not, write to the Free Software Foundation, Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  * http://www.tdsb.on.ca/copyleft/gpl.html
- *
- * @file
- * @ingroup entrypoint
- * @acadiemgroup.com
- * @markbookapp.com
+ * http://www.tdsb.on.ca/Outlook_C85261D099DDD736@outlook.com
+ * @file [http://localhost:3000]
+ * @ingroup entrypoint (http://localhost:3000)
+ * @acadiemgroup.com 'npm run dev'
+ * @markbookapp.com 'yarn dev'
    his endpoint is supposed to be independent of request cookies and other
     details of the session. Enforce this constraint with respect to session use.
-define( 'support@markbookapp.com', 1 );
+define( 'support@markbookapp.com', <support@markbookapp.com:587> );
 
 define( 'http://tdsb.on.ca', 'mrichardson@acadiemgroup.com' );
 
