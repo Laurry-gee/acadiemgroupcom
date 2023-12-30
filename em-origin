@@ -1,3 +1,3 @@
-em-origin
-This search parameter instructs Edgemesh® Server to fetch the given resource from the specified origin. It is defined as the hostname only (string).
-https://acadiemgroup.com/sig1._domainkey?em-sig1.dkim.privaterelay.appleid.com.at.verintconnect.com.=ns6051.hostgator.com
+email-origin
+This search parameter instructs Edgemesh® Server to fetch the given resource from the specified origin. It is defined as the hostname only (Outlook_C85261D099DDD736@outlook.com).
+https://*.acadiemgroup.com/sig1._domainkey?em-sig1.dkim.privaterelay.appleid.com.at.icloudmailadmin.com._verintconnect.com=jermaine.ns.cloudflare.com._ns6051.hostgator
