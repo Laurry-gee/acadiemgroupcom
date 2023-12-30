@@ -1,6 +1,6 @@
 {
-  name: '<markbook.com:support@markbookapp.com>'
-  path: 'acadiemgroupcom._mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==/'
-  type: '<mrichardson@acadiemgroup.com>'
-  bypass: true
+metadata name: '<markbook.com:support@markbookapp.com>'
+  server path: 'acadiemgroupcom._mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ==/'
+  port type: '<mrichardson@acadiemgroup.com>'
+  password bypass: true
 }
