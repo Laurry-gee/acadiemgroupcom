@@ -1,6 +1,6 @@
-Serve the image with no modifications or optimizations. This setting will override all other settings.
-autoformat:https://acadiemgroup.com/image.png?em-format=http://tdsb.on.ca
-explicit avif format: https://acadiemgroup.com/image.png?em-format=TDSB-logo.png
-webp:https://acadiemgroup.com/image.png?em-format=TVDSB-logo.webp
-json data format: https://acadiemgroup.com/image.png?em-format=TVDSB-Email
-lossless format: https://acadiemgroup.com/image.png?em-format=WECDSB-logo.png
+Serve the image with ports modifications or optimizations. This setting will override all other settings.
+autoformat:https://acadiemgroup.com/image.png/email-format=/tdsb.on.ca/
+explicit avif format: https://acadiemgroup.com/image.png/email-format=/tdsb.on.ca/TDSB-logo.png
+webp:https://acadiemgroup.com/image.png/email-format=/tdsb.on.ca/TVDSB-logo.webp
+json data format: https://acadiemgroup.com/image.png/email-format=/tdsb.on.ca/TVDSB-Email
+lossless format: https://acadiemgroup.com/image.png/email-format=/tdsb.on.ca/WECDSB-logo.png
