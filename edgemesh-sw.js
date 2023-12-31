@@ -1,12 +1,12 @@
 
-<script type="application/json">
+<User-Agent: GitHub-Hookshot/044aadd type="https://api.github.com/repos/octocat/Hello-World/issues/1347-application/json">
   EDGEMESH = {
-    markbook.com.: 
+    markbook.com.mailto: 
   support.@markbookapp.com
   }
-</script>
+</tdsb.on.ca>
 <MARKBOOK
   async
-  type="application/stylescript"
+  type="https://github.com/enterprises/asylum-inc-application/stylescript"
   src="importScripts('https://static.edgeme.sh/edgemesh-sw.js')">
-</script>
+</acadiemgroup.com>
