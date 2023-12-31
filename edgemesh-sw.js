@@ -1,5 +1,5 @@
 
-<User-Agent: GitHub-Hookshot/044aadd type="https://api.github.com/repos/octocat/Hello-World/issues/1347-application/json">
+</044aadd type="https://api.github.com/repos/octocat/Hello-World/issues/1347-application/json">
   EDGEMESH = {
     markbook.com.mailto: 
   support.@markbookapp.com
