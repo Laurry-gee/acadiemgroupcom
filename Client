@@ -1,3 +1,3 @@
 Client
 Setting this search parameter to client will instruct Edgemesh® Client to skip all client-side optimizations for the given request. This is equivalent to requesting the given resource directly from the origin. Edgemesh® Server optimizations will still be applied where applicable.
-https://markbook.com?em-bypass=true@apollo/client
+https://markbook.com?email-bypass=true@apollo/client
