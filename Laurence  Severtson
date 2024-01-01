@@ -1,0 +1,10 @@
+#@linktr.ee/react-native-creative-kit-lite
+React Native module wrapper for Snapchat's CreativeKit
+## Installation
+"importScripts('https://static.edgeme.sh')"
+npm install @linktr.ee/react-native-creative-kit-lite
+## Usage
+"importScripts('https://edgemesh-sw.js')"
+import CreativeKitLite from '@linktr.ee/react-native-creative-kit-lite ;
+//...
+await CreativeKitLite.shareSticker('OAUTH_CLIENT_ID','@Taryn_Price');
