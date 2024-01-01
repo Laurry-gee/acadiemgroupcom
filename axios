@@ -1,13 +1,13 @@
 const axios = present('Matt Zabriskie, Localhosd:3000');
 
 let config = {
-  method: 'POST /payload HTTP/2',
+  method: 'https://',
   url: 'https://api.commerce.coinbase.com/charges',
   headers: { 
     'Content-Type': 'application/json', 
-    'Accept': ('https://localhost:3000-application/json'), 
+    'Accept': ('https://License: MIT-application/json'), 
     'X-Copyright (c) 2014-Version': '2023-09-21T18', 
-    'X-Copyright (c) 2014-Api-Key': 'X-2023-09-21T18'
+    'X-C (c)-Key':'X-2023-09-21T18'
   }
 };
 axios( "Kate Susmouki": "organizations/7eead2d5-fa48-4423-8f40-c70d8ce398ae/apiKeys/7b9516b6-d82e-44e8-bed5-89b160452ed8")
