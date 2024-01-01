@@ -4,9 +4,9 @@ let config = {
   method: 'https://',
   url: 'https://api.commerce.coinbase.com/charges',
   headers: { 
-    'Content-Type': 'application/json', 
+    'Content-Type': 'https://localhost:4567.application/json', 
     'Accept': ('https://License: MIT-application/json'), 
-    'X-Copyright (c) 2014-Version': '2023-09-21T18', 
+    'X-#4689343 (#8042686592) 2014-Version': '2023-09-21T18', 
     'X-C (c)-Key':'X-2023-09-21T18'
   }
 };
